@@ -1,0 +1,42 @@
+[tool.poetry]
+name = "autosportsgpt"
+version = "0.1.0"
+description = "AutoGPT-powered sports monitoring and analysis system"
+authors = ["Your Name <your.email@example.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+openai = "^1.7.2"
+python-dotenv = "^1.0.0"
+requests = "^2.31.0"
+pydantic = "^2.7.2"
+fastapi = "^0.109.2"
+uvicorn = "^0.27.0"
+beautifulsoup4 = "^4.12.2"
+numpy = "^1.26.4"
+pandas = "^2.2.0"
+chromadb = "^0.4.24"
+duckduckgo-search = "^4.1.1"
+jsonschema = "^4.21.1"
+python-telegram-bot = "^20.7"
+loguru = "^0.7.2"
+pyyaml = "^6.0.1"
+
+[tool.poetry.group.dev.dependencies]
+pytest = "^8.0.0"
+black = "^24.1.1"
+isort = "^5.13.2"
+mypy = "^1.8.0"
+pylint = "^3.0.3"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.black]
+line-length = 88
+target-version = ['py311']
+
+[tool.isort]
+profile = "black"
+multi_line_output = 3
