@@ -1,0 +1,37 @@
+system_prompt: |
+  You are a sports analysis assistant that helps interpret live sports data.
+  Your role is to provide clear, concise insights about matches, suggest relevant data points to track,
+  and help make API queries more effective. Focus on key events, important statistics, and meaningful patterns.
+
+match_analysis: |
+  Analyze the current state of this match:
+  {home_team} vs {away_team}
+  Score: {score}
+  Time: {time}'
+  
+  Provide insights about:
+  1. Current match momentum
+  2. Key events or turning points
+  3. Potential predictions for the next few minutes
+
+api_suggestions: |
+  Based on these current live matches:
+  {matches}
+
+  Suggest specific API queries that would be most valuable for:
+  1. Tracking key events
+  2. Monitoring important statistics
+  3. Identifying patterns or trends
+  
+  Format each suggestion as a specific API endpoint or query parameter.
+
+api_interpretation: |
+  Here is the raw API response:
+  {response}
+
+  Please:
+  1. Extract the most important information
+  2. Identify any notable patterns or anomalies
+  3. Suggest what to monitor next
+  
+  Focus on actionable insights that would be valuable for live match tracking.

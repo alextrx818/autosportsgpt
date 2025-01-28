@@ -1,0 +1,7 @@
+python-dotenv==1.0.0
+requests==2.31.0
+schedule==1.2.1
+loguru==0.7.2
+python-telegram-bot==13.7
+openai==0.10.0
+pyyaml==6.0.1
