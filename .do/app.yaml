@@ -4,9 +4,9 @@ services:
   github:
     branch: main
     deploy_on_push: true
-    repo: yourusername/autosportsgpt
+    repo: alextrx818/autosportsgpt
   build_command: pip install -r requirements.txt
-  run_command: uvicorn api_server:app --host 0.0.0.0 --port 8080
+  run_command: bash /app/start.sh
   envs:
   - key: SPORTS_API_KEY
     scope: RUN_TIME
@@ -16,3 +16,11 @@ services:
     type: SECRET
   instance_size_slug: basic-xxs
   instance_count: 1
+  health_check:
+    http_path: /health
+    port: 8080
+    initial_delay_seconds: 30
+    period_seconds: 10
+    timeout_seconds: 5
+    success_threshold: 1
+    failure_threshold: 3
