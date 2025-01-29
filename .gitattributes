@@ -1,0 +1,7 @@
+* text=auto eol=lf
+*.{cmd,[cC][mM][dD]} text eol=crlf
+*.{bat,[bB][aA][tT]} text eol=crlf
+*.py text eol=lf
+*.txt text eol=lf
+*.md text eol=lf
+Dockerfile text eol=lf
