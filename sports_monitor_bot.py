@@ -1,5 +1,6 @@
 import os
 import requests
+import asyncio
 from dotenv import load_dotenv
 from loguru import logger
 
