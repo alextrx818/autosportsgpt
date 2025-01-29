@@ -25,7 +25,7 @@ def test_api_connection():
         response = requests.get(url, params=params)
         if response.status_code == 200:
             data = response.json()
-            print("✅ Success! In-Play Events:")
+            print("[SUCCESS] Success! In-Play Events:")
             if 'results' in data:
                 print(f"Found {len(data['results'])} live events")
                 if data['results']:
@@ -36,10 +36,10 @@ def test_api_connection():
                     print(f"  Score: {event.get('ss', 'N/A')}")
                     print(f"  Time: {event.get('time', 'N/A')}")
         else:
-            print(f"❌ Failed with status code: {response.status_code}")
+            print(f"[FAILED] Failed with status code: {response.status_code}")
             print(f"Response: {response.text}")
     except Exception as e:
-        print(f"❌ Error: {str(e)}")
+        print(f"[ERROR] Error: {str(e)}")
 
     # 2. Test Upcoming Events
     print("\n2. Testing Upcoming Events:")
@@ -52,7 +52,7 @@ def test_api_connection():
         response = requests.get(url, params=params)
         if response.status_code == 200:
             data = response.json()
-            print("✅ Success! Upcoming Events:")
+            print("[SUCCESS] Success! Upcoming Events:")
             if 'results' in data:
                 print(f"Found {len(data['results'])} upcoming events")
                 if data['results']:
@@ -63,10 +63,10 @@ def test_api_connection():
                         print(f"  Time: {event_time}")
                         print(f"  League: {event.get('league', {}).get('name', 'N/A')}\n")
         else:
-            print(f"❌ Failed with status code: {response.status_code}")
+            print(f"[FAILED] Failed with status code: {response.status_code}")
             print(f"Response: {response.text}")
     except Exception as e:
-        print(f"❌ Error: {str(e)}")
+        print(f"[ERROR] Error: {str(e)}")
 
     # 3. Test Pre-match Odds
     print("\n3. Testing Pre-match Odds:")
@@ -82,7 +82,7 @@ def test_api_connection():
             response = requests.get(url, params=params)
             if response.status_code == 200:
                 odds_data = response.json()
-                print("✅ Success! Pre-match Odds:")
+                print("[SUCCESS] Success! Pre-match Odds:")
                 if 'results' in odds_data:
                     print(f"Found odds for event ID: {event_id}")
                     if odds_data['results'].get('odds'):
@@ -93,10 +93,10 @@ def test_api_connection():
                             for outcome in market[1]:
                                 print(f"    {outcome.get('name', 'N/A')}: {outcome.get('odds', 'N/A')}")
             else:
-                print(f"❌ Failed with status code: {response.status_code}")
+                print(f"[FAILED] Failed with status code: {response.status_code}")
                 print(f"Response: {response.text}")
     except Exception as e:
-        print(f"❌ Error: {str(e)}")
+        print(f"[ERROR] Error: {str(e)}")
 
 if __name__ == "__main__":
     test_api_connection()
