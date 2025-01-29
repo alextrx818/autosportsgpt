@@ -60,6 +60,11 @@ async def startup_event():
 async def root():
     return {"status": "running", "last_update": last_update}
 
+@app.get("/health")
+async def health_check():
+    """Health check endpoint for Digital Ocean"""
+    return {"status": "healthy", "timestamp": datetime.now().isoformat()}
+
 @app.get("/matches")
 async def get_matches():
     """Get all live matches"""
