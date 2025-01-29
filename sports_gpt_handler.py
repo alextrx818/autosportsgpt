@@ -21,10 +21,10 @@ class SportsGPTHandler:
     async def analyze_match_data(self, match_data: Dict[str, Any]) -> Dict[str, Any]:
         """Use GPT to analyze match data and provide insights"""
         prompt = self.prompts['match_analysis'].format(
-            home_team=match_data['teams']['home']['name'],
-            away_team=match_data['teams']['away']['name'],
-            score=f"{match_data['goals']['home']} - {match_data['goals']['away']}",
-            time=match_data['fixture']['status']['elapsed']
+            home_team=match_data.get('home', {}).get('name', 'Unknown'),
+            away_team=match_data.get('away', {}).get('name', 'Unknown'),
+            score=match_data.get('ss', 'No score'),
+            time=match_data.get('time', 'No time')
         )
 
         try:
@@ -41,21 +41,25 @@ class SportsGPTHandler:
             analysis = response.choices[0].message.content
             return {
                 'analysis': analysis,
-                'match_id': match_data['fixture']['id'],
-                'timestamp': match_data['fixture']['status']['elapsed']
+                'match_id': match_data.get('id'),
+                'timestamp': match_data.get('time')
             }
         except Exception as e:
             logger.error(f"Error in GPT analysis: {str(e)}")
             return None
 
     async def suggest_api_queries(self, current_matches: List[Dict[str, Any]]) -> List[str]:
-        """Use GPT to suggest relevant API queries based on current matches"""
-        matches_summary = "\n".join([
-            f"{m['teams']['home']['name']} vs {m['teams']['away']['name']} ({m['league']['name']})"
-            for m in current_matches
+        """Generate API query suggestions based on current matches"""
+        if not current_matches:
+            return []
+
+        # Format match information for GPT
+        match_info = "\n".join([
+            f"{m.get('home', {}).get('name', 'Unknown')} vs {m.get('away', {}).get('name', 'Unknown')} ({m.get('league', {}).get('name', 'Unknown League')})"
+            for m in current_matches[:5]  # Limit to 5 matches to avoid token limits
         ])
 
-        prompt = self.prompts['api_suggestions'].format(matches=matches_summary)
+        prompt = self.prompts['api_suggestions'].format(matches=match_info)
 
         try:
             response = self.openai_client.chat.completions.create(

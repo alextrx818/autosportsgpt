@@ -1,0 +1,42 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: sports-monitor
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: sports-monitor
+  template:
+    metadata:
+      labels:
+        app: sports-monitor
+    spec:
+      containers:
+      - name: sports-monitor
+        image: <IMAGE>
+        ports:
+        - containerPort: 8000
+        env:
+        - name: SPORTS_API_KEY
+          valueFrom:
+            secretKeyRef:
+              name: sports-api-secrets
+              key: api-key
+        - name: SPORTS_API_HOST
+          valueFrom:
+            secretKeyRef:
+              name: sports-api-secrets
+              key: api-host
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: sports-monitor
+spec:
+  type: LoadBalancer
+  ports:
+  - port: 80
+    targetPort: 8000
+  selector:
+    app: sports-monitor
