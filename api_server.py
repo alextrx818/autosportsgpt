@@ -26,10 +26,7 @@ app.add_middleware(
 )
 
 # Global bot instance
-bot = SportsMonitorBot(
-    api_key=os.getenv('SPORTS_API_KEY'),
-    api_host=os.getenv('SPORTS_API_HOST')
-)
+bot = SportsMonitorBot()
 
 # Store for latest matches
 latest_matches: Dict[int, List[dict]] = {}
