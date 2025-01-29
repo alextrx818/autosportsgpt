@@ -8,8 +8,11 @@ import asyncio
 from typing import Dict, List
 from datetime import datetime
 
-# Load environment variables
-load_dotenv()
+# Load environment variables if .env exists
+try:
+    load_dotenv()
+except:
+    pass  # It's ok if .env doesn't exist, we'll use environment variables
 
 app = FastAPI(title="Sports Monitor API")
 
@@ -77,4 +80,5 @@ async def get_matches_by_sport(sport_id: int):
     }
 
 if __name__ == "__main__":
-    uvicorn.run("api_server:app", host="0.0.0.0", port=8000, reload=True)
+    port = int(os.getenv('PORT', '8080'))  # Use PORT from environment or default to 8080
+    uvicorn.run("api_server:app", host="0.0.0.0", port=port, reload=True)
