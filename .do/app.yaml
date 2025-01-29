@@ -18,7 +18,7 @@ services:
   instance_count: 1
   health_check:
     http_path: /health
-    port: 8080
+    port: 8000
     initial_delay_seconds: 30
     period_seconds: 10
     timeout_seconds: 5
