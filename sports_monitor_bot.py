@@ -3,12 +3,21 @@ import requests
 import asyncio
 from dotenv import load_dotenv
 from loguru import logger
+import sys
 
 # Load environment variables
 load_dotenv()
 
-# Configure logging
-logger.add("sports_monitor.log", rotation="1 day")
+# Configure logging with proper encoding
+logger.remove()  # Remove default handler
+logger.add(
+    "sports_monitor.log",
+    rotation="1 day",
+    encoding="utf-8",
+    enqueue=True,  # Thread-safe writing
+    format="{time:YYYY-MM-DD HH:mm:ss.SSS} | {level} | {name}:{function}:{line} - {message}"
+)
+logger.add(sys.stdout)  # Add stdout handler
 
 # Sport configurations with emojis
 SPORTS = {
@@ -70,6 +79,19 @@ class SportsMonitorBot:
             elif sport_id == 17:  # Ice Hockey
                 period = match.get('timer', {}).get('p', '1')
                 return f'P{period}'
+            elif sport_id == 14:  # Snooker
+                frame = match.get('timer', {}).get('f', '1')
+                return f'Frame {frame}'
+            elif sport_id == 78:  # Handball
+                half = int(time) <= 30 and '1H' or '2H'
+                return half
+            elif sport_id == 15:  # Darts
+                set_info = match.get('timer', {}).get('set', '1')
+                leg = match.get('timer', {}).get('leg', '1')
+                return f'Set {set_info} Leg {leg}'
+            elif sport_id == 92:  # Table Tennis
+                game = match.get('timer', {}).get('game', '1')
+                return f'Game {game}'
         return '-'
 
     def format_match(self, match, sport_id):

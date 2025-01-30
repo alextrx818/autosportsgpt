@@ -10,7 +10,11 @@ SPORTS = {
     18: {'name': 'Basketball', 'emoji': '🏀'},
     13: {'name': 'Tennis', 'emoji': '🎾'},
     91: {'name': 'Volleyball', 'emoji': '🏐'},
-    17: {'name': 'Ice Hockey', 'emoji': '🏒'}
+    17: {'name': 'Ice Hockey', 'emoji': '🏒'},
+    14: {'name': 'Snooker', 'emoji': '🎱'},
+    78: {'name': 'Handball', 'emoji': '🤾‍♀️'},
+    15: {'name': 'Darts', 'emoji': '🎯'},
+    92: {'name': 'Table Tennis', 'emoji': '🏓'}
 }
 
 def is_esport(league_name):
@@ -49,6 +53,19 @@ def get_period(match, sport_id):
         elif sport_id == 17:  # Ice Hockey
             period = match.get('timer', {}).get('p', '1')
             return f'P{period}'
+        elif sport_id == 14:  # Snooker
+            frame = match.get('timer', {}).get('f', '1')
+            return f'Frame {frame}'
+        elif sport_id == 78:  # Handball
+            half = int(time) <= 30 and '1H' or '2H'
+            return half
+        elif sport_id == 15:  # Darts
+            set_info = match.get('timer', {}).get('set', '1')
+            leg = match.get('timer', {}).get('leg', '1')
+            return f'Set {set_info} Leg {leg}'
+        elif sport_id == 92:  # Table Tennis
+            game = match.get('timer', {}).get('game', '1')
+            return f'Game {game}'
     return '-'
 
 def format_match(match, sport_id):
