@@ -15,17 +15,15 @@ services:
         value: ${OPENAI_API_KEY}
       - key: WORKSPACE_PATH
         scope: RUN_TIME
-        value: /workspace
+        value: /workspace/autogpt
       - key: EXECUTE_LOCAL_COMMANDS
         scope: RUN_TIME
         value: "False"  # Prevent any local execution
-    build_command: |
-      pip install -r requirements.txt
-      python -m spacy download en_core_web_sm
+    build_command: pip install -r requirements.txt
     run_command: python sports_web.py
     instance_size_slug: basic-xxs
     instance_count: 1
-    filesystem:
+    volumes:
       - name: autogpt-data
-        mount_path: /workspace
+        mount_path: /workspace/autogpt
         size_gb: 1
