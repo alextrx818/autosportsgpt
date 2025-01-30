@@ -1,0 +1,3 @@
+# Digital Ocean API Credentials
+DO_API_TOKEN=dop_v1_fd960407ed89701a6a7e065135798253b9b375e2259fc807478d2eccd0d49169
+DO_APP_ID=plankton-app

@@ -35,6 +35,8 @@ last_update: datetime = None
 
 # Initialize Digital Ocean manager
 do_token = os.getenv('DO_API_TOKEN')
+if not do_token:
+    print("Warning: DO_API_TOKEN not found in environment variables")
 do_manager = digitalocean.Manager(token=do_token) if do_token else None
 
 async def update_matches():
@@ -89,12 +91,14 @@ async def get_matches_by_sport(sport_id: int):
 @app.get("/logs/build")
 async def get_build_logs():
     """Get the latest build logs from Digital Ocean"""
-    if not do_manager:
+    do_token = os.getenv('DO_API_TOKEN')
+    if not do_token:
         raise HTTPException(status_code=500, detail="Digital Ocean API token not configured")
     
     try:
+        manager = digitalocean.Manager(token=do_token)
         # Get the app
-        apps = do_manager.get_all_apps()
+        apps = manager.get_all_apps()
         app = next((app for app in apps if app.spec['name'] == 'plankton-app'), None)
         if not app:
             raise HTTPException(status_code=404, detail="App not found")
@@ -128,12 +132,14 @@ async def get_build_logs():
 @app.get("/logs/build/{deployment_id}")
 async def get_deployment_logs(deployment_id: str):
     """Get build logs for a specific deployment"""
-    if not do_manager:
+    do_token = os.getenv('DO_API_TOKEN')
+    if not do_token:
         raise HTTPException(status_code=500, detail="Digital Ocean API token not configured")
     
     try:
+        manager = digitalocean.Manager(token=do_token)
         # Get the app
-        apps = do_manager.get_all_apps()
+        apps = manager.get_all_apps()
         app = next((app for app in apps if app.spec['name'] == 'plankton-app'), None)
         if not app:
             raise HTTPException(status_code=404, detail="App not found")
