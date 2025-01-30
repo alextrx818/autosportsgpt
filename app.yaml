@@ -9,22 +9,23 @@ services:
         scope: RUN_TIME
         type: SECRET
         value: ${DO_API_TOKEN}
-    build_command: pip install -r requirements.txt
-    run_command: python sports_web.py
-
-  - name: autogpt
-    github:
-      repo: alextrx818/autosportsgpt
-      branch: main
-    envs:
       - key: OPENAI_API_KEY
         scope: RUN_TIME
         type: SECRET
         value: ${OPENAI_API_KEY}
-      - key: PROJECT_PATH
+      - key: WORKSPACE_PATH
         scope: RUN_TIME
         value: /workspace
+      - key: EXECUTE_LOCAL_COMMANDS
+        scope: RUN_TIME
+        value: "False"  # Prevent any local execution
     build_command: |
       pip install -r requirements.txt
-      pip install auto-gpt
-    run_command: python -m autogpt --continuous --skip-reprompt --speak
+      python -m spacy download en_core_web_sm
+    run_command: python sports_web.py
+    instance_size_slug: basic-xxs
+    instance_count: 1
+    filesystem:
+      - name: autogpt-data
+        mount_path: /workspace
+        size_gb: 1

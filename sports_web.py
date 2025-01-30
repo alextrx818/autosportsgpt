@@ -2,8 +2,21 @@ from flask import Flask, render_template_string
 import os
 from datetime import datetime
 import re
+from openai import OpenAI
+from fastapi import BackgroundTasks
+import logging
+from autogpt.agent import Agent
+from autogpt.config import Config
+from autogpt.workspace import Workspace
+from autogpt.commands.command import CommandRegistry
 
 app = Flask(__name__)
+
+# Initialize OpenAI client
+client = OpenAI()
+
+# Initialize logger
+logger = logging.getLogger(__name__)
 
 HTML_TEMPLATE = """
 <!DOCTYPE html>
@@ -130,11 +143,73 @@ def read_log_file():
     except Exception as e:
         return f"Error reading match data: {str(e)}\nPlease make sure the sports monitor bot is running."
 
+async def analyze_sports_data(data):
+    """Analyze sports data using OpenAI API - runs on Digital Ocean"""
+    try:
+        response = await client.chat.completions.create(
+            model="gpt-4",
+            messages=[
+                {"role": "system", "content": "You are a sports analysis assistant that helps monitor matches and suggest UI improvements."},
+                {"role": "user", "content": f"Analyze this sports data and provide insights: {data}"}
+            ],
+            temperature=0.7
+        )
+        return response.choices[0].message.content
+    except Exception as e:
+        logger.error(f"Error analyzing sports data: {e}")
+        return None
+
+# AutoGPT Integration
+def init_autogpt():
+    """Initialize AutoGPT agent - runs on Digital Ocean"""
+    config = Config()
+    config.continuous_mode = True
+    config.speak_mode = False
+    
+    # Use Digital Ocean's mounted filesystem
+    workspace = Workspace(
+        workspace_root="/workspace/autogpt-data",
+        restrict_to_workspace=True
+    )
+    
+    command_registry = CommandRegistry()
+    
+    agent = Agent(
+        ai_name="SportsGPT",
+        memory_type="local",  # Uses Digital Ocean's mounted filesystem
+        workspace=workspace,
+        command_registry=command_registry,
+        config=config
+    )
+    return agent
+
+# Initialize AutoGPT agent
+agent = init_autogpt()
+
 @app.route('/')
 def home():
     matches = read_log_file()
     last_update = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
     return render_template_string(HTML_TEMPLATE, matches=matches, last_update=last_update)
+
+@app.route('/analyze', methods=['POST'])
+async def analyze_matches():
+    """Endpoint to analyze matches - runs entirely on Digital Ocean"""
+    matches = read_log_file()
+    analysis = await analyze_sports_data(matches)
+    return {"status": "Analysis completed", "analysis": analysis}
+
+@app.route('/autogpt/analyze', methods=['POST'])
+def autogpt_analyze():
+    """Use AutoGPT to analyze matches and suggest improvements"""
+    matches = read_log_file()
+    
+    # Run AutoGPT analysis
+    result = agent.run_task(
+        f"Analyze these sports matches and suggest UI improvements: {matches}"
+    )
+    
+    return {"status": "Analysis completed", "suggestions": result}
 
 if __name__ == "__main__":
     app.run(host='0.0.0.0', port=8080)

@@ -7,27 +7,11 @@ uvicorn>=0.27.0
 beautifulsoup4>=4.12.2
 numpy>=1.26.4
 pandas>=2.2.0
-chromadb>=0.4.24
-sqlalchemy>=2.0.25
-aiosqlite>=0.19.0
-duckduckgo-search>=4.1.1
-jsonschema>=4.21.1
+flask>=3.0.0
 python-telegram-bot>=20.7
 loguru>=0.7.2
-pyyaml>=6.0.1
-pytest>=8.0.0
-black>=24.1.1
-isort>=5.13.2
-mypy>=1.8.0
-pylint>=3.0.3
-flask>=3.0.0  # Added for web interface
 
-# AutoGPT and its dependencies
+# AutoGPT core dependencies
 auto-gpt>=0.4.7
-pinecone-client>=2.2.4
-redis>=5.0.1
 tiktoken>=0.5.2
 spacy>=3.7.2
-transformers>=4.36.2
-torch>=2.1.2
-orjson>=3.9.10
