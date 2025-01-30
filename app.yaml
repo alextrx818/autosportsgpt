@@ -1,26 +1,32 @@
 name: plankton-app
+envs:
+  - key: DO_API_TOKEN
+    scope: RUN_TIME
+    type: SECRET
+    value: ${DO_API_TOKEN}
+  - key: OPENAI_API_KEY
+    scope: RUN_TIME
+    type: SECRET
+    value: ${OPENAI_API_KEY}
+  - key: WORKSPACE_PATH
+    scope: RUN_TIME
+    value: /workspace/autogpt
+  - key: EXECUTE_LOCAL_COMMANDS
+    scope: RUN_TIME
+    value: "False"
+  - key: ENVIRONMENT
+    scope: RUN_TIME
+    value: "production"
+  - key: PORT
+    scope: RUN_TIME
+    value: "8000"
+
 services:
   - name: web
     github:
       repo: alextrx818/autosportsgpt
       branch: main
-    envs:
-      - key: DO_API_TOKEN
-        scope: RUN_TIME
-        type: SECRET
-        value: ${DO_API_TOKEN}
-      - key: OPENAI_API_KEY
-        scope: RUN_TIME
-        type: SECRET
-        value: ${OPENAI_API_KEY}
-      - key: WORKSPACE_PATH
-        scope: RUN_TIME
-        value: /workspace/autogpt
-      - key: EXECUTE_LOCAL_COMMANDS
-        scope: RUN_TIME
-        value: "False"  # Prevent any local execution
-    build_command: pip install -r requirements.txt
-    run_command: python sports_web.py
+    dockerfile_path: Dockerfile
     instance_size_slug: basic-xxs
     instance_count: 1
     volumes:
