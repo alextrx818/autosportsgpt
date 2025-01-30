@@ -12,3 +12,18 @@ services:
       - key: PORT
         scope: RUN_AND_BUILD_TIME
         value: "8000"
+      - key: SPORTS_API_KEY
+        scope: RUN_AND_BUILD_TIME
+        value: "180846-RVi16IBGld4Pvr"
+      - key: SPORTS_API_HOST
+        scope: RUN_AND_BUILD_TIME
+        value: "api.b365api.com"
+      - key: OPENAI_API_KEY
+        scope: RUN_AND_BUILD_TIME
+        type: SECRET
+      - key: DO_API_TOKEN
+        scope: RUN_AND_BUILD_TIME
+        type: SECRET
+      - key: DO_APP_ID
+        scope: RUN_AND_BUILD_TIME
+        value: "plankton-app-qyijl"
