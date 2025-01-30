@@ -15,7 +15,7 @@ This guide explains how to access build logs directly from DigitalOcean's API wh
 ```powershell
 # Set up headers with your API token
 $headers = @{ 
-    "Authorization" = "Bearer YOUR_DO_API_TOKEN" 
+    "Authorization" = "Bearer ${DO_API_TOKEN}" 
 }
 
 # Make the API request
@@ -23,14 +23,14 @@ $url = "https://api.digitalocean.com/v2/apps/{APP_ID}/deployments/{DEPLOYMENT_ID
 Invoke-WebRequest -Uri $url -Headers $headers | Select-Object -ExpandProperty Content
 ```
 
-### Example with Real Values
+### Example with Placeholder Values
 
 ```powershell
 $headers = @{ 
-    "Authorization" = "Bearer dop_v1_YOUR_TOKEN" 
+    "Authorization" = "Bearer ${DO_API_TOKEN}" 
 }
 
-Invoke-WebRequest -Uri "https://api.digitalocean.com/v2/apps/5137f955-d71d-41a0-9774-fb35149ea21b/deployments/1da3eeab-f7ae-497a-a55f-b17f510fe799/components/autosportsgpt/logs?type=BUILD" -Headers $headers | Select-Object -ExpandProperty Content
+Invoke-WebRequest -Uri "https://api.digitalocean.com/v2/apps/YOUR_APP_ID/deployments/YOUR_DEPLOYMENT_ID/components/YOUR_COMPONENT/logs?type=BUILD" -Headers $headers | Select-Object -ExpandProperty Content
 ```
 
 ## Understanding the URL Structure
