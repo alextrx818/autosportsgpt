@@ -3,7 +3,7 @@ envs:
   - key: DO_API_TOKEN
     scope: RUN_AND_BUILD_TIME
     type: SECRET
-    value: ${DO_API_TOKEN}
+    value: dop_v1_888b2c805a24ff2839758f843194e2569fa2dca9e13078889d3bc615776cae28
   - key: OPENAI_API_KEY
     scope: RUN_TIME
     type: SECRET

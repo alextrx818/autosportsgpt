@@ -30,14 +30,8 @@ mypy = "^1.8.0"
 pylint = "^3.0.3"
 
 [build-system]
-requires = ["poetry-core>=1.0.0"]
+requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
-
-[tool.poetry.packages]
-include = [
-    { include = "*.py" },
-    { include = "autosportsgpt", from = "." }
-]
 
 [tool.black]
 line-length = 88
