@@ -21,3 +21,13 @@ isort>=5.13.2
 mypy>=1.8.0
 pylint>=3.0.3
 flask>=3.0.0  # Added for web interface
+
+# AutoGPT and its dependencies
+auto-gpt>=0.4.7
+pinecone-client>=2.2.4
+redis>=5.0.1
+tiktoken>=0.5.2
+spacy>=3.7.2
+transformers>=4.36.2
+torch>=2.1.2
+orjson>=3.9.10

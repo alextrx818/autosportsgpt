@@ -1,0 +1,30 @@
+name: plankton-app
+services:
+  - name: web
+    github:
+      repo: alextrx818/autosportsgpt
+      branch: main
+    envs:
+      - key: DO_API_TOKEN
+        scope: RUN_TIME
+        type: SECRET
+        value: ${DO_API_TOKEN}
+    build_command: pip install -r requirements.txt
+    run_command: python sports_web.py
+
+  - name: autogpt
+    github:
+      repo: alextrx818/autosportsgpt
+      branch: main
+    envs:
+      - key: OPENAI_API_KEY
+        scope: RUN_TIME
+        type: SECRET
+        value: ${OPENAI_API_KEY}
+      - key: PROJECT_PATH
+        scope: RUN_TIME
+        value: /workspace
+    build_command: |
+      pip install -r requirements.txt
+      pip install auto-gpt
+    run_command: python -m autogpt --continuous --skip-reprompt --speak
