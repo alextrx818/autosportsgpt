@@ -7,3 +7,4 @@ schedule==1.2.1
 python-digitalocean==1.17.0
 loguru==0.7.2
 aiohttp==3.9.1
+-e git+https://github.com/Significant-Gravitas/Auto-GPT.git@v0.4.7#egg=auto-gpt
