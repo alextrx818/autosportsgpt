@@ -1,9 +1,9 @@
 name: plankton-app
 envs:
   - key: DO_API_TOKEN
-    scope: RUN_TIME
+    scope: RUN_AND_BUILD_TIME
     type: SECRET
-    value: ${DO_API_TOKEN}
+    value: dop_v1_888b2c805a24ff2839758f843194e2569fa2dca9e13078889d3bc615776cae28
   - key: OPENAI_API_KEY
     scope: RUN_TIME
     type: SECRET
@@ -17,15 +17,13 @@ envs:
   - key: ENVIRONMENT
     scope: RUN_TIME
     value: "production"
-  - key: PORT
-    scope: RUN_TIME
-    value: "8000"
 
 services:
-  - name: web
+  - name: autosportsgpt
     github:
       repo: alextrx818/autosportsgpt
       branch: main
+      deploy_on_push: true
     dockerfile_path: Dockerfile
     instance_size_slug: basic-xxs
     instance_count: 1
@@ -33,3 +31,7 @@ services:
       - name: autogpt-data
         mount_path: /workspace/autogpt
         size_gb: 1
+    envs:
+      - key: PORT
+        scope: RUN_AND_BUILD_TIME
+        value: "8000"
