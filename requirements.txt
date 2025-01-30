@@ -12,3 +12,9 @@ python-telegram-bot==20.6
 schedule==1.2.1
 python-digitalocean==1.17.0
 loguru==0.7.2
+
+# AutoGPT core dependencies
+git+https://github.com/Significant-Gravitas/Auto-GPT.git@v0.4.7
+tiktoken==0.5.2
+spacy==3.7.2
+en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1.tar.gz
