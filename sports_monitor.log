@@ -83984,3 +83984,1593 @@ t 1)
 ⚽ Hapoel Ironi Karmiel 0-1 Maccabi Ihud Bnei Avtin
 ⏰ 32' (1H)
 
+2025-01-30 13:05:47.715 | INFO | __main__:fetch_live_matches:137 - Israel Division 1 Women
+⚽ Hapoel Beer Sheva Women 1-0 ASA Tel Aviv Women
+⏰ 5' (1H)
+
+2025-01-30 13:05:47.716 | INFO | __main__:fetch_live_matches:137 - Algeria Division 1
+⚽ CR Belouizdad 0-0 CS Constantine
+⏰ 5' (1H)
+
+2025-01-30 13:05:47.716 | INFO | __main__:fetch_live_matches:137 - Mali Premiere Division
+⚽ Djoliba AC 0-0 US Bougouba
+⏰ 3' (1H)
+
+2025-01-30 13:05:47.717 | INFO | __main__:fetch_live_matches:137 - Brazil Campeonato Pernambucano
+⚽ Decisao 0-0 Petrolina SFC
+⏰ 1' (1H)
+
+2025-01-30 13:05:50.467 | INFO | __main__:fetch_live_matches:131 - 
+📱 Live Basketball Matches (22 total)
+
+2025-01-30 13:05:50.468 | INFO | __main__:fetch_live_matches:137 - Bahrain Premier League
+🏀 Al Ittihad Bahrain 41-39 Al Hala
+⏰ 10' (Q3)
+
+2025-01-30 13:05:50.468 | INFO | __main__:fetch_live_matches:137 - Czechia Cup
+🏀 BK Decin 43-24 Brno
+⏰ 10' (Q3)
+
+2025-01-30 13:05:50.469 | INFO | __main__:fetch_live_matches:137 - Denmark Basketligaen
+🏀 Copenhagen Basketball 0-0 Svendborg Rabbits
+⏰ 10' (Q1)
+
+2025-01-30 13:05:50.469 | INFO | __main__:fetch_live_matches:137 - Czechia Cup
+🏀 BK Opava 39-32 Sokol Pisek
+⏰ 7' (Q3)
+
+2025-01-30 13:05:50.470 | INFO | __main__:fetch_live_matches:137 - Poland 2 Liga
+🏀 GTK Gliwice 2 3-9 AZS AGH Krakow
+⏰ 7' (Q1)
+
+2025-01-30 13:05:50.470 | INFO | __main__:fetch_live_matches:137 - Czechia Liga 2
+🏀 SK Basket Renocar 4-3 Basketpoint Frydek-Mistek
+⏰ 7' (Q1)
+
+2025-01-30 13:05:50.471 | INFO | __main__:fetch_live_matches:137 - Algeria Super Division
+🏀 CSC Djasr Kasentina 28-33 MC Alger
+⏰ 6' (Q3)
+
+2025-01-30 13:05:50.471 | INFO | __main__:fetch_live_matches:137 - UAE Dubai IBC
+🏀 Strong Group 59-42 Al Sharjah
+⏰ 6' (Q3)
+
+2025-01-30 13:05:50.472 | INFO | __main__:fetch_live_matches:137 - Slovenia SKL
+🏀 LTH Castings 41-63 Helios Domzale
+⏰ 6' (Q3)
+
+2025-01-30 13:05:50.472 | INFO | __main__:fetch_live_matches:137 - Norway Ligaen
+🏀 Baerum Basket 3-6 Asker Aliens
+⏰ 6' (Q1)
+
+2025-01-30 13:05:50.472 | INFO | __main__:fetch_live_matches:137 - Greece ESKA-ESKANA A2
+🏀 Trahonon Dia Alimou 6-5 OK Elefsinas
+⏰ 6' (Q1)
+
+2025-01-30 13:05:50.473 | INFO | __main__:fetch_live_matches:137 - Greece ESKA-ESKANA A2
+🏀 Agog Evriali 14-7 Thria Aspropirgou
+⏰ 6' (Q1)
+
+2025-01-30 13:05:50.473 | INFO | __main__:fetch_live_matches:137 - Euroleague
+🏀 Zalgiris 8-8 Bayern Munich
+⏰ 6' (Q1)
+
+2025-01-30 13:05:50.473 | INFO | __main__:fetch_live_matches:137 - Denmark Basketligaen
+🏀 Vaerlose 9-7 BK Amager
+⏰ 6' (Q1)
+
+2025-01-30 13:05:50.474 | INFO | __main__:fetch_live_matches:137 - Poland PLK
+🏀 Polski Cukier Torun 73-69 Zielona Gora
+⏰ 5' (Q4)
+
+2025-01-30 13:05:50.474 | INFO | __main__:fetch_live_matches:137 - Finland Division 1A
+🏀 Lappeenrannan NMKY 66-77 Aanekosken Huima
+⏰ 5' (Q4)
+
+2025-01-30 13:05:50.475 | INFO | __main__:fetch_live_matches:137 - Kosovo Cup
+🏀 Bashkimi 25-25 Vellaznimi
+⏰ 5' (Q2)
+
+2025-01-30 13:05:50.475 | INFO | __main__:fetch_live_matches:137 - Lithuania LMKL Women
+🏀 Kibirkstis Women 65-39 Siauliu Siauliai Women
+⏰ 4' (Q3)
+
+2025-01-30 13:05:50.476 | INFO | __main__:fetch_live_matches:137 - Latvia NBL
+🏀 BK Ventspils Augstskola 41-66 Bauska
+⏰ 4' (Q3)
+
+2025-01-30 13:05:50.476 | INFO | __main__:fetch_live_matches:137 - Serbia 1ZLS Women
+🏀 Novosadska Women 31-26 Proleter Women
+⏰ 4' (Q2)
+
+2025-01-30 13:05:50.476 | INFO | __main__:fetch_live_matches:137 - Denmark Basketligaen
+🏀 Randers Cimbria 49-34 BMS Herlev
+⏰ 3' (Q2)
+
+2025-01-30 13:05:50.477 | INFO | __main__:fetch_live_matches:137 - WNCAAB
+🏀 Austin Peay Women 63-79 Stetson Women
+⏰ 0' (Q4)
+
+2025-01-30 13:05:53.292 | INFO | __main__:fetch_live_matches:131 - 
+📱 Live Tennis Matches (25 total)
+
+2025-01-30 13:05:53.292 | INFO | __main__:fetch_live_matches:137 - WTA Linz WD
+🎾 Sramkova/Tomova 4-6,6-6 Appleton/Tang
+⏰ 0' (Set 2)
+
+2025-01-30 13:05:53.493 | INFO | __main__:fetch_live_matches:137 - ITF W35 Glasgow WD
+🎾 Corley/Lemaitre 6-6 Paszek/Rogers
+⏰ 0' (Set 1)
+
+2025-01-30 13:05:53.493 | INFO | __main__:fetch_live_matches:137 - Challenger Piracicaba MD
+🎾 Braga/Braga 0-0 Britto/Zormann
+⏰ 0' (Set 1)
+
+2025-01-30 13:05:53.494 | INFO | __main__:fetch_live_matches:137 - Challenger Piracicaba
+🎾 Pedro Sakamoto 6-7,6-4,1-0 Hugo Dellien
+⏰ 0' (Set 3)
+
+2025-01-30 13:05:53.494 | INFO | __main__:fetch_live_matches:137 - Challenger Piracicaba
+🎾 Emilio Nava 6-7,7-6,1-2 Juan Pablo Ficovich
+⏰ 0' (Set 3)
+
+2025-01-30 13:05:53.495 | INFO | __main__:fetch_live_matches:137 - ITF M25 Glasgow MD
+🎾 Bass/Story 1-2 Lumsden/Stewart
+⏰ 0' (Set 1)
+
+2025-01-30 13:05:53.495 | INFO | __main__:fetch_live_matches:137 - ITF M15 Palm Coast
+🎾 Justin Boulais 5-5 Louis Tessa
+⏰ 0' (Set 1)
+
+2025-01-30 13:05:53.495 | INFO | __main__:fetch_live_matches:137 - ITF W75 Andrezieux-Boutheon WD
+🎾 Perrin/Tran 6-4,5-3 Feng/Wagner
+⏰ 0' (Set 2)
+
+2025-01-30 13:05:53.496 | INFO | __main__:fetch_live_matches:137 - ITF M15 Huamantla
+🎾 Michael A Beltran Rubio 1-1 Juan Sebastian Osorio
+⏰ 0' (Set 1)
+
+2025-01-30 13:05:53.496 | INFO | __main__:fetch_live_matches:137 - ITF M15 Huamantla
+🎾 Ezequiel Monferrer 4-6,1-2 Ryan Fishback
+⏰ 0' (Set 2)
+
+2025-01-30 13:05:53.496 | INFO | __main__:fetch_live_matches:137 - ITF M15 Huamantla
+🎾 Alvin N Tudorica 6-3,0-0 Alex Kobelt
+⏰ 0' (Set 2)
+
+2025-01-30 13:05:53.497 | INFO | __main__:fetch_live_matches:137 - ITF M15 Palm Coast
+🎾 Lucas Renard 2-6,1-4 Miles Jones
+⏰ 0' (Set 2)
+
+2025-01-30 13:05:53.497 | INFO | __main__:fetch_live_matches:137 - Challenger Piracicaba
+🎾 Mateus Alves 6-7,1-1 Roman Andres Burruchaga
+⏰ 0' (Set 2)
+
+2025-01-30 13:05:53.497 | INFO | __main__:fetch_live_matches:137 - ITF M15 Huamantla
+🎾 Tadeo Meneo 3-4 Johan A Rodriguez Rodriguez
+⏰ 0' (Set 1)
+
+2025-01-30 13:05:53.498 | INFO | __main__:fetch_live_matches:137 - WTA Linz
+🎾 Karolina Muchova 6-2,3-0 Sara Sorribes Tormo
+⏰ 0' (Set 2)
+
+2025-01-30 13:05:53.498 | INFO | __main__:fetch_live_matches:137 - Davis Cup
+🎾 Nicolai Budkov Kjaer 4-3 Tomas Martin Etcheverry
+⏰ 0' (Set 1)
+
+2025-01-30 13:05:53.498 | INFO | __main__:fetch_live_matches:137 - Challenger Koblenz
+🎾 Mika Brunold 6-2,0-0 Christoph Negritu
+⏰ 0' (Set 2)
+
+2025-01-30 13:05:53.499 | INFO | __main__:fetch_live_matches:137 - Challenger Cleveland MD
+🎾 Verdugo/Trotter 3-6,2-1 Kumar/Schachter
+⏰ 0' (Set 2)
+
+2025-01-30 13:05:53.500 | INFO | __main__:fetch_live_matches:137 - ITF M25 Glasgow MD
+🎾 Duncan/Mackinlay 6-1,6-2 Pecci/Serafini
+⏰ 0' (Set 2)
+
+2025-01-30 13:05:53.500 | INFO | __main__:fetch_live_matches:137 - ITF W75 Rome
+🎾 Solana Sierra 4-0 Lisa Zaar
+⏰ 0' (Set 1)
+
+2025-01-30 13:05:53.501 | INFO | __main__:fetch_live_matches:137 - ITF W75 Rome
+🎾 Cadence Brace 0-0 Carol Zhao
+⏰ 0' (Set 1)
+
+2025-01-30 13:05:53.501 | INFO | __main__:fetch_live_matches:137 - ITF W75 Rome
+🎾 Victoria Mboko 2-1 Akasha Urhobo
+⏰ 0' (Set 1)
+
+2025-01-30 13:05:53.502 | INFO | __main__:fetch_live_matches:137 - Challenger Cleveland
+🎾 Stefan Kozlov 2-1 Kaylan Bigun
+⏰ 0' (Set 1)
+
+2025-01-30 13:05:53.502 | INFO | __main__:fetch_live_matches:137 - ATP Montpellier
+🎾 Tallon Griekspoor 1-0 Richard Gasquet
+⏰ 0' (Set 1)
+
+2025-01-30 13:05:53.503 | INFO | __main__:fetch_live_matches:137 - ITF M15 Palm Coast MD
+🎾 Horve/Okonkwo 0-0 Van Orderlain/Vega
+⏰ 0' (Set 1)
+
+2025-01-30 13:05:56.644 | INFO | __main__:fetch_live_matches:131 - 
+📱 Live Volleyball Matches (12 total)
+
+2025-01-30 13:05:56.644 | INFO | __main__:fetch_live_matches:137 - Czechia Extraliga Women
+🏐 Prerov Women 10-12 Sternberk Women
+⏰ 0' (Set 1)
+
+2025-01-30 13:05:56.645 | INFO | __main__:fetch_live_matches:137 - Poland Liga Siatkówki Women
+🏐 Radomka Radom Women 0-0 MKS Kalisz Women
+⏰ 0' (Set 1)
+
+2025-01-30 13:05:56.847 | INFO | __main__:fetch_live_matches:137 - Czechia Extraliga Women
+🏐 Liberec Women 12-12 Vk Prostejov Women
+⏰ 0' (Set 1)
+
+2025-01-30 13:05:56.848 | INFO | __main__:fetch_live_matches:137 - Czechia Extraliga Women
+🏐 Olomouc Women 3-4 Ostrava Women
+⏰ 0' (Set 1)
+
+2025-01-30 13:05:56.849 | INFO | __main__:fetch_live_matches:137 - Czechia Extraliga Women
+🏐 Kralovo Pole Women 2-12 Olymp Praha Women
+⏰ 0' (Set 1)
+
+2025-01-30 13:05:56.850 | INFO | __main__:fetch_live_matches:137 - Israel National League
+🏐 Hapoel Emek Jezreel 25-21 Hapoel Hamaapil
+⏰ 0' (Set 1)
+
+2025-01-30 13:05:56.850 | INFO | __main__:fetch_live_matches:137 - Hungary Regional League
+🏐 Dunakanyar LSN 0-0 MAFC-Vasarhelyi
+⏰ 0' (Set 1)
+
+2025-01-30 13:05:56.851 | INFO | __main__:fetch_live_matches:137 - Slovenia 1.DOL Women
+🏐 Weiler Volley Zrece Women 13-10 ZOK Braslovce Women
+⏰ 0' (Set 1)
+
+2025-01-30 13:05:56.851 | INFO | __main__:fetch_live_matches:137 - Bahrain Champs
+🏐 Al Dair 17-24 Al Tadamon Bahrain
+⏰ 0' (Set 1)
+
+2025-01-30 13:05:56.852 | INFO | __main__:fetch_live_matches:137 - German Bundesliga Women
+🏐 MTV Stuttgart Women 6-6 Dresdner SC Women
+⏰ 0' (Set 1)
+
+2025-01-30 13:05:56.853 | INFO | __main__:fetch_live_matches:137 - Argentina Serie A1
+🏐 Monteros 0-0 Velez Sarsfield
+⏰ 0' (Set 1)
+
+2025-01-30 13:05:56.853 | INFO | __main__:fetch_live_matches:137 - Slovenia 1B.DOL Women
+🏐 Prevalje Women 12-8 OD Krim Women
+⏰ 0' (Set 1)
+
+2025-01-30 13:05:59.950 | INFO | __main__:fetch_live_matches:131 - 
+📱 Live Ice Hockey Matches (23 total)
+
+2025-01-30 13:05:59.950 | INFO | __main__:fetch_live_matches:137 - Finland Mestis
+🏒 Keupa HT 0-2 Roki
+⏰ 20' (P1)
+
+2025-01-30 13:05:59.950 | INFO | __main__:fetch_live_matches:137 - Norway Eliteserien
+🏒 Storhamar 1-1 Narvik IK
+⏰ 20' (P1)
+
+2025-01-30 13:05:59.951 | INFO | __main__:fetch_live_matches:137 - Norway Eliteserien
+🏒 Stjernen 0-3 Lillehammer
+⏰ 20' (P1)
+
+2025-01-30 13:05:59.951 | INFO | __main__:fetch_live_matches:137 - Norway Eliteserien
+🏒 Lorenskog 2-0 Sparta Sarpsborg
+⏰ 20' (P1)
+
+2025-01-30 13:05:59.951 | INFO | __main__:fetch_live_matches:137 - Poland Ekstraliga
+🏒 KH GKS Katowice 1-1 JKH GKS Jastrzebie
+⏰ 20' (P1)
+
+2025-01-30 13:05:59.952 | INFO | __main__:fetch_live_matches:137 - Germany Oberliga
+🏒 Fuchse Duisburg 0-0 Icefighters Leipzig
+⏰ 20' (P1)
+
+2025-01-30 13:05:59.952 | INFO | __main__:fetch_live_matches:137 - Swedish Hockey League
+🏒 Modo Hockey 0-0 Vaxjo Lakers HC
+⏰ 19' (P1)
+
+2025-01-30 13:05:59.953 | INFO | __main__:fetch_live_matches:137 - Norway Elite U20
+🏒 Sparta Sarp U20 0-0 Lorenskog U20
+⏰ 18' (P1)
+
+2025-01-30 13:05:59.953 | INFO | __main__:fetch_live_matches:137 - Czechia Liga U20
+🏒 Olomouc U20 2-5 Zlin B U20
+⏰ 17' (P1)
+
+2025-01-30 13:05:59.953 | INFO | __main__:fetch_live_matches:137 - Sweden Nationell U20
+🏒 Frolunda HC U20 1-0 Rogle BK U20
+⏰ 17' (P1)
+
+2025-01-30 13:05:59.954 | INFO | __main__:fetch_live_matches:137 - Swedish Hockey League
+🏒 Leksands IF 0-0 HV71
+⏰ 17' (P1)
+
+2025-01-30 13:05:59.954 | INFO | __main__:fetch_live_matches:137 - Swedish Hockey League
+🏒 Farjestad BK 0-0 Timra IK
+⏰ 17' (P1)
+
+2025-01-30 13:05:59.955 | INFO | __main__:fetch_live_matches:137 - Slovakia Extraliga U20
+🏒 HK Dukla Michalovce U20 4-1 HC Kosice U20
+⏰ 16' (P1)
+
+2025-01-30 13:05:59.956 | INFO | __main__:fetch_live_matches:137 - Swedish Hockey League
+🏒 Skelleftea AIK 0-0 Luleå Hockey
+⏰ 16' (P1)
+
+2025-01-30 13:05:59.956 | INFO | __main__:fetch_live_matches:137 - Alps Hockey League
+🏒 HK Celje 0-0 EC Kitzbuhel
+⏰ 16' (P1)
+
+2025-01-30 13:05:59.957 | INFO | __main__:fetch_live_matches:137 - Swedish Hockey League
+🏒 Linkoping HC 0-0 Orebro HK
+⏰ 16' (P1)
+
+2025-01-30 13:05:59.957 | INFO | __main__:fetch_live_matches:137 - Norway Eliteserien
+🏒 Frisk Asker 0-0 Stavanger
+⏰ 16' (P1)
+
+2025-01-30 13:05:59.958 | INFO | __main__:fetch_live_matches:137 - Swedish Hockey League
+🏒 Brynas IF 0-0 Frolunda HC
+⏰ 15' (P1)
+
+2025-01-30 13:05:59.958 | INFO | __main__:fetch_live_matches:137 - Swedish Hockey League
+🏒 Rogle BK 0-0 IF Malmo Redhawks
+⏰ 15' (P1)
+
+2025-01-30 13:05:59.959 | INFO | __main__:fetch_live_matches:137 - Czechia Extraliga
+🏒 Liberec 1-0 Mountfield HK
+⏰ 13' (P1)
+
+2025-01-30 13:05:59.959 | INFO | __main__:fetch_live_matches:137 - Finland SM-Liiga U20
+🏒 Pelicans U20 1-2 Kookoo U20
+⏰ 6' (P1)
+
+2025-01-30 13:05:59.959 | INFO | __main__:fetch_live_matches:137 - IIHF U20 World Champs Div 3
+🏒 Bulgaria U20 4-1 Türkiye U20
+⏰ 6' (P1)
+
+2025-01-30 13:05:59.960 | INFO | __main__:fetch_live_matches:137 - Slovakia Extraliga U20
+🏒 HC Slovan Bratislava U20 5-2 VLCI Zilina U20
+⏰ 1' (P1)
+
+2025-01-30 13:06:03.951 | INFO | __main__:fetch_live_matches:131 - 
+📱 Live Handball Matches (5 total)
+
+2025-01-30 13:06:03.951 | INFO | __main__:fetch_live_matches:137 - Denmark 1st Division
+🤾 Skive FH 14-10 Rækker Mølle
+⏰ 27' (1H)
+
+2025-01-30 13:06:03.952 | INFO | __main__:fetch_live_matches:137 - Israel National League Women
+🤾 Bnei Herzliya Women 14-8 Hapoel Rishon LeZion Women
+⏰ 27' (1H)
+
+2025-01-30 13:06:03.952 | INFO | __main__:fetch_live_matches:137 - Israel Premier League
+🤾 Maccabi Rishon LeZion 16-12 Hapoel Ashdod
+⏰ 26' (1H)
+
+2025-01-30 13:06:03.953 | INFO | __main__:fetch_live_matches:137 - Sweden Eliteserien Women
+🤾 IK Savehof Women 0-2 Skara HF Women
+⏰ 5' (1H)
+
+2025-01-30 13:06:03.953 | INFO | __main__:fetch_live_matches:137 - Poland Central League Women
+🤾 KS APR Radom Women 2-1 SMS ZPRP Plock Women
+⏰ 5' (1H)
+
+2025-01-30 13:06:11.980 | INFO | __main__:fetch_live_matches:131 - 
+📱 Live Soccer Matches (15 total)
+
+2025-01-30 13:06:11.981 | INFO | __main__:fetch_live_matches:137 - Israel Division 1 Women
+⚽ Maccabi Kishronot Hadera Women 1-1 Hapoel Petah Tikva Women
+⏰ 73' (2H)
+
+2025-01-30 13:06:11.981 | INFO | __main__:fetch_live_matches:137 - Iraq Stars League
+⚽ Al Quwa Al Jawiya 0-1 Al Shorta SC
+⏰ 70' (2H)
+
+2025-01-30 13:06:11.982 | INFO | __main__:fetch_live_matches:137 - Coppa Italia Women
+⚽ Juventus Women 0-3 Lazio Women
+⏰ 49' (2H)
+
+2025-01-30 13:06:11.982 | INFO | __main__:fetch_live_matches:137 - Israel Division 1 Women
+⚽ Kiryat Gat SC Women 2-0 FC Ramat Hasharon Women
+⏰ 48' (2H)
+
+2025-01-30 13:06:11.983 | INFO | __main__:fetch_live_matches:137 - Cyprus Cup
+⚽ Apoel Nicosia 1-0 Pafos FC
+⏰ 46' (2H)
+
+2025-01-30 13:06:11.983 | INFO | __main__:fetch_live_matches:137 - Saudi Arabia Pro League
+⚽ Al Raed 0-1 Al-Nassr Riyadh
+⏰ 45' (1H)
+
+2025-01-30 13:06:11.984 | INFO | __main__:fetch_live_matches:137 - Israel Liga Alef South
+⚽ Hapoel Herzliya 0-0 Hapoel Azor
+⏰ 45' (1H)
+
+2025-01-30 13:06:11.984 | INFO | __main__:fetch_live_matches:137 - Morocco GNF 1
+⚽ Raja Casablanca 1-0 OC Safi
+⏰ 45' (1H)
+
+2025-01-30 13:06:11.984 | INFO | __main__:fetch_live_matches:137 - Israel Division 1 Women
+⚽ Hapoel Tel Aviv Women 1-2 Hapoel Jerusalem Women
+⏰ 45' (1H)
+
+2025-01-30 13:06:11.985 | INFO | __main__:fetch_live_matches:137 - Israel Liga Bet South
+⚽ Ironi Beit Dagan 0-0 MS Bnei Jaffa Ortodoxim
+⏰ 34' (1H)
+
+2025-01-30 13:06:11.986 | INFO | __main__:fetch_live_matches:137 - Israel Liga Bet North
+⚽ Hapoel Ironi Karmiel 0-1 Maccabi Ihud Bnei Avtin
+⏰ 32' (1H)
+
+2025-01-30 13:06:11.986 | INFO | __main__:fetch_live_matches:137 - Israel Division 1 Women
+⚽ Hapoel Beer Sheva Women 1-0 ASA Tel Aviv Women
+⏰ 5' (1H)
+
+2025-01-30 13:06:11.986 | INFO | __main__:fetch_live_matches:137 - Algeria Division 1
+⚽ CR Belouizdad 0-0 CS Constantine
+⏰ 5' (1H)
+
+2025-01-30 13:06:11.987 | INFO | __main__:fetch_live_matches:137 - Mali Premiere Division
+⚽ Djoliba AC 0-0 US Bougouba
+⏰ 3' (1H)
+
+2025-01-30 13:06:11.988 | INFO | __main__:fetch_live_matches:137 - Brazil Campeonato Pernambucano
+⚽ Decisao 0-0 Petrolina SFC
+⏰ 1' (1H)
+
+2025-01-30 13:06:15.739 | INFO | __main__:fetch_live_matches:131 - 
+📱 Live Soccer Matches (15 total)
+
+2025-01-30 13:06:15.741 | INFO | __main__:fetch_live_matches:137 - Israel Division 1 Women
+⚽ Maccabi Kishronot Hadera Women 1-1 Hapoel Petah Tikva Women
+⏰ 73' (2H)
+
+2025-01-30 13:06:15.742 | INFO | __main__:fetch_live_matches:137 - Iraq Stars League
+⚽ Al Quwa Al Jawiya 0-1 Al Shorta SC
+⏰ 70' (2H)
+
+2025-01-30 13:06:15.742 | INFO | __main__:fetch_live_matches:137 - Coppa Italia Women
+⚽ Juventus Women 0-3 Lazio Women
+⏰ 49' (2H)
+
+2025-01-30 13:06:15.742 | INFO | __main__:fetch_live_matches:137 - Israel Division 1 Women
+⚽ Kiryat Gat SC Women 2-0 FC Ramat Hasharon Women
+⏰ 48' (2H)
+
+2025-01-30 13:06:15.743 | INFO | __main__:fetch_live_matches:137 - Israel Liga Alef South
+⚽ Hapoel Herzliya 0-0 Hapoel Azor
+⏰ 46' (2H)
+
+2025-01-30 13:06:15.743 | INFO | __main__:fetch_live_matches:137 - Cyprus Cup
+⚽ Apoel Nicosia 1-0 Pafos FC
+⏰ 46' (2H)
+
+2025-01-30 13:06:15.744 | INFO | __main__:fetch_live_matches:137 - Saudi Arabia Pro League
+⚽ Al Raed 0-1 Al-Nassr Riyadh
+⏰ 45' (1H)
+
+2025-01-30 13:06:15.744 | INFO | __main__:fetch_live_matches:137 - Morocco GNF 1
+⚽ Raja Casablanca 1-0 OC Safi
+⏰ 45' (1H)
+
+2025-01-30 13:06:15.744 | INFO | __main__:fetch_live_matches:137 - Israel Division 1 Women
+⚽ Hapoel Tel Aviv Women 1-2 Hapoel Jerusalem Women
+⏰ 45' (1H)
+
+2025-01-30 13:06:15.745 | INFO | __main__:fetch_live_matches:137 - Israel Liga Bet South
+⚽ Ironi Beit Dagan 0-0 MS Bnei Jaffa Ortodoxim
+⏰ 34' (1H)
+
+2025-01-30 13:06:15.745 | INFO | __main__:fetch_live_matches:137 - Israel Liga Bet North
+⚽ Hapoel Ironi Karmiel 0-1 Maccabi Ihud Bnei Avtin
+⏰ 32' (1H)
+
+2025-01-30 13:06:15.746 | INFO | __main__:fetch_live_matches:137 - Israel Division 1 Women
+⚽ Hapoel Beer Sheva Women 1-0 ASA Tel Aviv Women
+⏰ 5' (1H)
+
+2025-01-30 13:06:15.746 | INFO | __main__:fetch_live_matches:137 - Algeria Division 1
+⚽ CR Belouizdad 0-0 CS Constantine
+⏰ 5' (1H)
+
+2025-01-30 13:06:15.746 | INFO | __main__:fetch_live_matches:137 - Mali Premiere Division
+⚽ Djoliba AC 0-0 US Bougouba
+⏰ 3' (1H)
+
+2025-01-30 13:06:15.747 | INFO | __main__:fetch_live_matches:137 - Brazil Campeonato Pernambucano
+⚽ Decisao 0-0 Petrolina SFC
+⏰ 2' (1H)
+
+2025-01-30 13:06:16.836 | INFO | __main__:fetch_live_matches:131 - 
+📱 Live Basketball Matches (22 total)
+
+2025-01-30 13:06:16.836 | INFO | __main__:fetch_live_matches:137 - Bahrain Premier League
+🏀 Al Ittihad Bahrain 41-39 Al Hala
+⏰ 10' (Q3)
+
+2025-01-30 13:06:16.836 | INFO | __main__:fetch_live_matches:137 - Czechia Cup
+🏀 BK Decin 43-24 Brno
+⏰ 10' (Q3)
+
+2025-01-30 13:06:16.837 | INFO | __main__:fetch_live_matches:137 - Denmark Basketligaen
+🏀 Copenhagen Basketball 0-0 Svendborg Rabbits
+⏰ 10' (Q1)
+
+2025-01-30 13:06:16.837 | INFO | __main__:fetch_live_matches:137 - Czechia Cup
+🏀 BK Opava 41-35 Sokol Pisek
+⏰ 7' (Q3)
+
+2025-01-30 13:06:16.838 | INFO | __main__:fetch_live_matches:137 - Czechia Liga 2
+🏀 SK Basket Renocar 4-3 Basketpoint Frydek-Mistek
+⏰ 7' (Q1)
+
+2025-01-30 13:06:16.839 | INFO | __main__:fetch_live_matches:137 - Algeria Super Division
+🏀 CSC Djasr Kasentina 28-33 MC Alger
+⏰ 6' (Q3)
+
+2025-01-30 13:06:16.839 | INFO | __main__:fetch_live_matches:137 - UAE Dubai IBC
+🏀 Strong Group 59-42 Al Sharjah
+⏰ 6' (Q3)
+
+2025-01-30 13:06:16.840 | INFO | __main__:fetch_live_matches:137 - Slovenia SKL
+🏀 LTH Castings 41-63 Helios Domzale
+⏰ 6' (Q3)
+
+2025-01-30 13:06:16.840 | INFO | __main__:fetch_live_matches:137 - Poland 2 Liga
+🏀 GTK Gliwice 2 3-9 AZS AGH Krakow
+⏰ 6' (Q1)
+
+2025-01-30 13:06:16.840 | INFO | __main__:fetch_live_matches:137 - Norway Ligaen
+🏀 Baerum Basket 3-8 Asker Aliens
+⏰ 6' (Q1)
+
+2025-01-30 13:06:16.840 | INFO | __main__:fetch_live_matches:137 - Greece ESKA-ESKANA A2
+🏀 Trahonon Dia Alimou 6-5 OK Elefsinas
+⏰ 6' (Q1)
+
+2025-01-30 13:06:16.841 | INFO | __main__:fetch_live_matches:137 - Greece ESKA-ESKANA A2
+🏀 Agog Evriali 14-7 Thria Aspropirgou
+⏰ 6' (Q1)
+
+2025-01-30 13:06:16.841 | INFO | __main__:fetch_live_matches:137 - Euroleague
+🏀 Zalgiris 8-8 Bayern Munich
+⏰ 6' (Q1)
+
+2025-01-30 13:06:16.842 | INFO | __main__:fetch_live_matches:137 - Kosovo Cup
+🏀 Bashkimi 25-25 Vellaznimi
+⏰ 5' (Q2)
+
+2025-01-30 13:06:16.842 | INFO | __main__:fetch_live_matches:137 - Denmark Basketligaen
+🏀 Vaerlose 9-7 BK Amager
+⏰ 5' (Q1)
+
+2025-01-30 13:06:16.842 | INFO | __main__:fetch_live_matches:137 - Poland PLK
+🏀 Polski Cukier Torun 73-69 Zielona Gora
+⏰ 4' (Q4)
+
+2025-01-30 13:06:16.843 | INFO | __main__:fetch_live_matches:137 - Finland Division 1A
+🏀 Lappeenrannan NMKY 66-77 Aanekosken Huima
+⏰ 4' (Q4)
+
+2025-01-30 13:06:16.843 | INFO | __main__:fetch_live_matches:137 - Lithuania LMKL Women
+🏀 Kibirkstis Women 65-39 Siauliu Siauliai Women
+⏰ 4' (Q3)
+
+2025-01-30 13:06:16.844 | INFO | __main__:fetch_live_matches:137 - Latvia NBL
+🏀 BK Ventspils Augstskola 41-66 Bauska
+⏰ 4' (Q3)
+
+2025-01-30 13:06:16.844 | INFO | __main__:fetch_live_matches:137 - Denmark Basketligaen
+🏀 Randers Cimbria 49-34 BMS Herlev
+⏰ 3' (Q2)
+
+2025-01-30 13:06:16.844 | INFO | __main__:fetch_live_matches:137 - Serbia 1ZLS Women
+🏀 Novosadska Women 33-27 Proleter Women
+⏰ 3' (Q2)
+
+2025-01-30 13:06:16.845 | INFO | __main__:fetch_live_matches:137 - WNCAAB
+🏀 Austin Peay Women 63-79 Stetson Women
+⏰ 0' (Q4)
+
+2025-01-30 13:06:18.396 | INFO | __main__:fetch_live_matches:131 - 
+📱 Live Table Tennis Matches (22 total)
+
+2025-01-30 13:06:18.396 | INFO | __main__:fetch_live_matches:137 - Czech Liga Pro
+🏓 Petr Svoboda 0-0 Miroslav Malek
+⏰ 0' (Game 1)
+
+2025-01-30 13:06:18.397 | INFO | __main__:fetch_live_matches:137 - TT Cup
+🏓 Robert Jamrich 2-3 Ladislav Moravec
+⏰ 0' (-)
+
+2025-01-30 13:06:18.397 | INFO | __main__:fetch_live_matches:137 - Setka Cup
+🏓 Oleksandr Bondarchuk 9-11 Yevhen Masko
+⏰ 0' (Game 1)
+
+2025-01-30 13:06:18.397 | INFO | __main__:fetch_live_matches:137 - Czech Extraleague
+🏓 Martin Koblizek 0-0 Adam Stalzer
+⏰ 0' (Game 1)
+
+2025-01-30 13:06:18.398 | INFO | __main__:fetch_live_matches:137 - TT Elite Series
+🏓 Mariusz Koczyba 3-11 Mateusz Trela
+⏰ 0' (Game 1)
+
+2025-01-30 13:06:18.398 | INFO | __main__:fetch_live_matches:137 - Setka Cup
+🏓 Marian Melisek 10-8 Jan Krojidlo
+⏰ 0' (Game 1)
+
+2025-01-30 13:06:18.398 | INFO | __main__:fetch_live_matches:137 - Setka Cup
+🏓 Oleksandr Mishchenko 2-4 Eduard Rubtsov
+⏰ 0' (Game 1)
+
+2025-01-30 13:06:18.399 | INFO | __main__:fetch_live_matches:137 - TT Cup
+🏓 Jiri Cerny 0-0 Ladislav Moravec
+⏰ 0' (Game 1)
+
+2025-01-30 13:06:18.399 | INFO | __main__:fetch_live_matches:137 - Setka Cup
+🏓 Vladyslav Kovalchuk 8-10 Mykola Slozka
+⏰ 0' (Game 1)
+
+2025-01-30 13:06:18.400 | INFO | __main__:fetch_live_matches:137 - Czech Liga Pro
+🏓 Jiri Ruzicka 3-3 Martin Huk
+⏰ 0' (Game 1)
+
+2025-01-30 13:06:18.400 | INFO | __main__:fetch_live_matches:137 - Czech Liga Pro
+🏓 Petr Svoboda 3-0 Miroslav Malek
+⏰ 0' (Game 1)
+
+2025-01-30 13:06:18.400 | INFO | __main__:fetch_live_matches:137 - Czech Liga Pro
+🏓 Tomas Turek 8-8 Marek Fabini
+⏰ 0' (Game 1)
+
+2025-01-30 13:06:18.401 | INFO | __main__:fetch_live_matches:137 - TT Star Series
+🏓 Simon Berglund 9-6 Erik Huzsvar
+⏰ 0' (Game 1)
+
+2025-01-30 13:06:18.401 | INFO | __main__:fetch_live_matches:137 - TT Elite Series
+🏓 Petr David 3-5 Krzysztof Kapik
+⏰ 0' (Game 1)
+
+2025-01-30 13:06:18.402 | INFO | __main__:fetch_live_matches:137 - Setka Cup
+🏓 Anton Tur 3-2 Serhii Chuhai
+⏰ 0' (Game 1)
+
+2025-01-30 13:06:18.402 | INFO | __main__:fetch_live_matches:137 - Czech Liga Pro
+🏓 Frantisek Trojan 8-6 Leos Havrda
+⏰ 0' (Game 1)
+
+2025-01-30 13:06:18.402 | INFO | __main__:fetch_live_matches:137 - Czech Liga Pro
+🏓 Martin Pavliska 5-6 Kamil Przeczek
+⏰ 0' (Game 1)
+
+2025-01-30 13:06:18.403 | INFO | __main__:fetch_live_matches:137 - Setka Cup
+🏓 Volodymyr Kruglyak 0-0 Hennadii Buianover
+⏰ 0' (Game 1)
+
+2025-01-30 13:06:18.403 | INFO | __main__:fetch_live_matches:137 - TT Elite Series
+🏓 Kacper Slawinski 0-0 Marcin Kowalczyk
+⏰ 0' (Game 1)
+
+2025-01-30 13:06:18.405 | INFO | __main__:fetch_live_matches:137 - Setka Cup
+🏓 Martin Vorel 1-1 Ladislav Tuma
+⏰ 0' (Game 1)
+
+2025-01-30 13:06:18.406 | INFO | __main__:fetch_live_matches:137 - TT Cup
+🏓 Marek Teiml 0-0 Ales Zacharda
+⏰ 0' (Game 1)
+
+2025-01-30 13:06:18.406 | INFO | __main__:fetch_live_matches:137 - Setka Cup
+🏓 Martin Stehlik 0-0 Zdenek Kuksa
+⏰ 0' (Game 1)
+
+2025-01-30 13:06:20.011 | INFO | __main__:fetch_live_matches:131 - 
+📱 Live Tennis Matches (25 total)
+
+2025-01-30 13:06:20.011 | INFO | __main__:fetch_live_matches:137 - WTA Linz WD
+🎾 Sramkova/Tomova 4-6,6-6 Appleton/Tang
+⏰ 0' (Set 2)
+
+2025-01-30 13:06:20.012 | INFO | __main__:fetch_live_matches:137 - ITF W35 Glasgow WD
+🎾 Corley/Lemaitre 6-6 Paszek/Rogers
+⏰ 0' (Set 1)
+
+2025-01-30 13:06:20.012 | INFO | __main__:fetch_live_matches:137 - Challenger Piracicaba MD
+🎾 Braga/Braga 0-0 Britto/Zormann
+⏰ 0' (Set 1)
+
+2025-01-30 13:06:20.012 | INFO | __main__:fetch_live_matches:137 - Challenger Piracicaba
+🎾 Pedro Sakamoto 6-7,6-4,1-0 Hugo Dellien
+⏰ 0' (Set 3)
+
+2025-01-30 13:06:20.013 | INFO | __main__:fetch_live_matches:137 - Challenger Piracicaba
+🎾 Emilio Nava 6-7,7-6,1-2 Juan Pablo Ficovich
+⏰ 0' (Set 3)
+
+2025-01-30 13:06:20.014 | INFO | __main__:fetch_live_matches:137 - ITF M25 Glasgow MD
+🎾 Bass/Story 1-2 Lumsden/Stewart
+⏰ 0' (Set 1)
+
+2025-01-30 13:06:20.014 | INFO | __main__:fetch_live_matches:137 - ITF M15 Palm Coast
+🎾 Justin Boulais 5-5 Louis Tessa
+⏰ 0' (Set 1)
+
+2025-01-30 13:06:20.014 | INFO | __main__:fetch_live_matches:137 - ITF W75 Andrezieux-Boutheon WD
+🎾 Perrin/Tran 6-4,5-3 Feng/Wagner
+⏰ 0' (Set 2)
+
+2025-01-30 13:06:20.015 | INFO | __main__:fetch_live_matches:137 - ITF M15 Huamantla
+🎾 Michael A Beltran Rubio 1-1 Juan Sebastian Osorio
+⏰ 0' (Set 1)
+
+2025-01-30 13:06:20.015 | INFO | __main__:fetch_live_matches:137 - ITF M15 Huamantla
+🎾 Ezequiel Monferrer 4-6,1-2 Ryan Fishback
+⏰ 0' (Set 2)
+
+2025-01-30 13:06:20.016 | INFO | __main__:fetch_live_matches:137 - ITF M15 Huamantla
+🎾 Alvin N Tudorica 6-3,0-0 Alex Kobelt
+⏰ 0' (Set 2)
+
+2025-01-30 13:06:20.016 | INFO | __main__:fetch_live_matches:137 - ITF M15 Palm Coast
+🎾 Lucas Renard 2-6,1-4 Miles Jones
+⏰ 0' (Set 2)
+
+2025-01-30 13:06:20.017 | INFO | __main__:fetch_live_matches:137 - Challenger Piracicaba
+🎾 Mateus Alves 6-7,1-1 Roman Andres Burruchaga
+⏰ 0' (Set 2)
+
+2025-01-30 13:06:20.017 | INFO | __main__:fetch_live_matches:137 - ITF M15 Huamantla
+🎾 Tadeo Meneo 3-4 Johan A Rodriguez Rodriguez
+⏰ 0' (Set 1)
+
+2025-01-30 13:06:20.017 | INFO | __main__:fetch_live_matches:137 - WTA Linz
+🎾 Karolina Muchova 6-2,3-0 Sara Sorribes Tormo
+⏰ 0' (Set 2)
+
+2025-01-30 13:06:20.018 | INFO | __main__:fetch_live_matches:137 - Davis Cup
+🎾 Nicolai Budkov Kjaer 4-3 Tomas Martin Etcheverry
+⏰ 0' (Set 1)
+
+2025-01-30 13:06:20.018 | INFO | __main__:fetch_live_matches:137 - Challenger Koblenz
+🎾 Mika Brunold 6-2,0-0 Christoph Negritu
+⏰ 0' (Set 2)
+
+2025-01-30 13:06:20.019 | INFO | __main__:fetch_live_matches:137 - Challenger Cleveland MD
+🎾 Verdugo/Trotter 3-6,2-1 Kumar/Schachter
+⏰ 0' (Set 2)
+
+2025-01-30 13:06:20.020 | INFO | __main__:fetch_live_matches:137 - ITF M25 Glasgow MD
+🎾 Duncan/Mackinlay 6-1,6-2 Pecci/Serafini
+⏰ 0' (Set 2)
+
+2025-01-30 13:06:20.020 | INFO | __main__:fetch_live_matches:137 - ITF W75 Rome
+🎾 Solana Sierra 5-0 Lisa Zaar
+⏰ 0' (Set 1)
+
+2025-01-30 13:06:20.022 | INFO | __main__:fetch_live_matches:137 - ITF W75 Rome
+🎾 Cadence Brace 0-0 Carol Zhao
+⏰ 0' (Set 1)
+
+2025-01-30 13:06:20.023 | INFO | __main__:fetch_live_matches:137 - ITF W75 Rome
+🎾 Victoria Mboko 2-1 Akasha Urhobo
+⏰ 0' (Set 1)
+
+2025-01-30 13:06:20.023 | INFO | __main__:fetch_live_matches:137 - Challenger Cleveland
+🎾 Stefan Kozlov 2-1 Kaylan Bigun
+⏰ 0' (Set 1)
+
+2025-01-30 13:06:20.024 | INFO | __main__:fetch_live_matches:137 - ATP Montpellier
+🎾 Tallon Griekspoor 1-1 Richard Gasquet
+⏰ 0' (Set 1)
+
+2025-01-30 13:06:20.024 | INFO | __main__:fetch_live_matches:137 - ITF M15 Palm Coast MD
+🎾 Horve/Okonkwo 0-0 Van Orderlain/Vega
+⏰ 0' (Set 1)
+
+2025-01-30 13:06:21.025 | INFO | __main__:fetch_live_matches:131 - 
+📱 Live Basketball Matches (22 total)
+
+2025-01-30 13:06:21.025 | INFO | __main__:fetch_live_matches:137 - Bahrain Premier League
+🏀 Al Ittihad Bahrain 41-39 Al Hala
+⏰ 10' (Q3)
+
+2025-01-30 13:06:21.026 | INFO | __main__:fetch_live_matches:137 - Czechia Cup
+🏀 BK Decin 43-24 Brno
+⏰ 10' (Q3)
+
+2025-01-30 13:06:21.026 | INFO | __main__:fetch_live_matches:137 - Denmark Basketligaen
+🏀 Copenhagen Basketball 0-0 Svendborg Rabbits
+⏰ 10' (Q1)
+
+2025-01-30 13:06:21.027 | INFO | __main__:fetch_live_matches:137 - Czechia Cup
+🏀 BK Opava 41-35 Sokol Pisek
+⏰ 7' (Q3)
+
+2025-01-30 13:06:21.027 | INFO | __main__:fetch_live_matches:137 - Czechia Liga 2
+🏀 SK Basket Renocar 4-3 Basketpoint Frydek-Mistek
+⏰ 7' (Q1)
+
+2025-01-30 13:06:21.027 | INFO | __main__:fetch_live_matches:137 - Algeria Super Division
+🏀 CSC Djasr Kasentina 28-33 MC Alger
+⏰ 6' (Q3)
+
+2025-01-30 13:06:21.028 | INFO | __main__:fetch_live_matches:137 - UAE Dubai IBC
+🏀 Strong Group 59-42 Al Sharjah
+⏰ 6' (Q3)
+
+2025-01-30 13:06:21.028 | INFO | __main__:fetch_live_matches:137 - Slovenia SKL
+🏀 LTH Castings 41-63 Helios Domzale
+⏰ 6' (Q3)
+
+2025-01-30 13:06:21.028 | INFO | __main__:fetch_live_matches:137 - Poland 2 Liga
+🏀 GTK Gliwice 2 3-9 AZS AGH Krakow
+⏰ 6' (Q1)
+
+2025-01-30 13:06:21.029 | INFO | __main__:fetch_live_matches:137 - Norway Ligaen
+🏀 Baerum Basket 3-6 Asker Aliens
+⏰ 6' (Q1)
+
+2025-01-30 13:06:21.029 | INFO | __main__:fetch_live_matches:137 - Greece ESKA-ESKANA A2
+🏀 Agog Evriali 14-7 Thria Aspropirgou
+⏰ 6' (Q1)
+
+2025-01-30 13:06:21.029 | INFO | __main__:fetch_live_matches:137 - Euroleague
+🏀 Zalgiris 8-8 Bayern Munich
+⏰ 6' (Q1)
+
+2025-01-30 13:06:21.030 | INFO | __main__:fetch_live_matches:137 - Kosovo Cup
+🏀 Bashkimi 25-25 Vellaznimi
+⏰ 5' (Q2)
+
+2025-01-30 13:06:21.030 | INFO | __main__:fetch_live_matches:137 - Greece ESKA-ESKANA A2
+🏀 Trahonon Dia Alimou 6-7 OK Elefsinas
+⏰ 5' (Q1)
+
+2025-01-30 13:06:21.030 | INFO | __main__:fetch_live_matches:137 - Denmark Basketligaen
+🏀 Vaerlose 9-7 BK Amager
+⏰ 5' (Q1)
+
+2025-01-30 13:06:21.031 | INFO | __main__:fetch_live_matches:137 - Poland PLK
+🏀 Polski Cukier Torun 76-69 Zielona Gora
+⏰ 4' (Q4)
+
+2025-01-30 13:06:21.031 | INFO | __main__:fetch_live_matches:137 - Finland Division 1A
+🏀 Lappeenrannan NMKY 66-77 Aanekosken Huima
+⏰ 4' (Q4)
+
+2025-01-30 13:06:21.031 | INFO | __main__:fetch_live_matches:137 - Lithuania LMKL Women
+🏀 Kibirkstis Women 65-39 Siauliu Siauliai Women
+⏰ 4' (Q3)
+
+2025-01-30 13:06:21.032 | INFO | __main__:fetch_live_matches:137 - Latvia NBL
+🏀 BK Ventspils Augstskola 43-66 Bauska
+⏰ 3' (Q3)
+
+2025-01-30 13:06:21.032 | INFO | __main__:fetch_live_matches:137 - Denmark Basketligaen
+🏀 Randers Cimbria 49-34 BMS Herlev
+⏰ 3' (Q2)
+
+2025-01-30 13:06:21.033 | INFO | __main__:fetch_live_matches:137 - Serbia 1ZLS Women
+🏀 Novosadska Women 33-27 Proleter Women
+⏰ 3' (Q2)
+
+2025-01-30 13:06:21.033 | INFO | __main__:fetch_live_matches:137 - WNCAAB
+🏀 Austin Peay Women 63-79 Stetson Women
+⏰ 0' (Q4)
+
+2025-01-30 13:06:22.902 | INFO | __main__:fetch_live_matches:131 - 
+📱 Live Volleyball Matches (12 total)
+
+2025-01-30 13:06:22.902 | INFO | __main__:fetch_live_matches:137 - Czechia Extraliga Women
+🏐 Prerov Women 10-12 Sternberk Women
+⏰ 0' (Set 1)
+
+2025-01-30 13:06:22.903 | INFO | __main__:fetch_live_matches:137 - Poland Liga Siatkówki Women
+🏐 Radomka Radom Women 0-0 MKS Kalisz Women
+⏰ 0' (Set 1)
+
+2025-01-30 13:06:22.903 | INFO | __main__:fetch_live_matches:137 - Czechia Extraliga Women
+🏐 Liberec Women 12-12 Vk Prostejov Women
+⏰ 0' (Set 1)
+
+2025-01-30 13:06:22.903 | INFO | __main__:fetch_live_matches:137 - Czechia Extraliga Women
+🏐 Olomouc Women 3-4 Ostrava Women
+⏰ 0' (Set 1)
+
+2025-01-30 13:06:22.904 | INFO | __main__:fetch_live_matches:137 - Czechia Extraliga Women
+🏐 Kralovo Pole Women 2-12 Olymp Praha Women
+⏰ 0' (Set 1)
+
+2025-01-30 13:06:22.904 | INFO | __main__:fetch_live_matches:137 - Israel National League
+🏐 Hapoel Emek Jezreel 3-0 Hapoel Hamaapil
+⏰ 0' (-)
+
+2025-01-30 13:06:22.905 | INFO | __main__:fetch_live_matches:137 - Hungary Regional League
+🏐 Dunakanyar LSN 0-0 MAFC-Vasarhelyi
+⏰ 0' (Set 1)
+
+2025-01-30 13:06:22.906 | INFO | __main__:fetch_live_matches:137 - Slovenia 1.DOL Women
+🏐 Weiler Volley Zrece Women 14-10 ZOK Braslovce Women
+⏰ 0' (Set 1)
+
+2025-01-30 13:06:22.906 | INFO | __main__:fetch_live_matches:137 - Bahrain Champs
+🏐 Al Dair 18-24 Al Tadamon Bahrain
+⏰ 0' (Set 1)
+
+2025-01-30 13:06:22.907 | INFO | __main__:fetch_live_matches:137 - German Bundesliga Women
+🏐 MTV Stuttgart Women 7-6 Dresdner SC Women
+⏰ 0' (Set 1)
+
+2025-01-30 13:06:22.907 | INFO | __main__:fetch_live_matches:137 - Argentina Serie A1
+🏐 Monteros 0-0 Velez Sarsfield
+⏰ 0' (Set 1)
+
+2025-01-30 13:06:22.907 | INFO | __main__:fetch_live_matches:137 - Slovenia 1B.DOL Women
+🏐 Prevalje Women 13-8 OD Krim Women
+⏰ 0' (Set 1)
+
+2025-01-30 13:06:24.321 | INFO | __main__:fetch_live_matches:131 - 
+📱 Live Tennis Matches (25 total)
+
+2025-01-30 13:06:24.321 | INFO | __main__:fetch_live_matches:137 - WTA Linz WD
+🎾 Sramkova/Tomova 4-6,6-6 Appleton/Tang
+⏰ 0' (Set 2)
+
+2025-01-30 13:06:24.322 | INFO | __main__:fetch_live_matches:137 - ITF W35 Glasgow WD
+🎾 Corley/Lemaitre 6-6 Paszek/Rogers
+⏰ 0' (Set 1)
+
+2025-01-30 13:06:24.322 | INFO | __main__:fetch_live_matches:137 - Challenger Piracicaba MD
+🎾 Braga/Braga 0-0 Britto/Zormann
+⏰ 0' (Set 1)
+
+2025-01-30 13:06:24.323 | INFO | __main__:fetch_live_matches:137 - Challenger Piracicaba
+🎾 Pedro Sakamoto 6-7,6-4,1-0 Hugo Dellien
+⏰ 0' (Set 3)
+
+2025-01-30 13:06:24.323 | INFO | __main__:fetch_live_matches:137 - Challenger Piracicaba
+🎾 Emilio Nava 6-7,7-6,1-2 Juan Pablo Ficovich
+⏰ 0' (Set 3)
+
+2025-01-30 13:06:24.323 | INFO | __main__:fetch_live_matches:137 - ITF M25 Glasgow MD
+🎾 Bass/Story 1-2 Lumsden/Stewart
+⏰ 0' (Set 1)
+
+2025-01-30 13:06:24.324 | INFO | __main__:fetch_live_matches:137 - ITF M15 Palm Coast
+🎾 Justin Boulais 5-5 Louis Tessa
+⏰ 0' (Set 1)
+
+2025-01-30 13:06:24.324 | INFO | __main__:fetch_live_matches:137 - ITF W75 Andrezieux-Boutheon WD
+🎾 Perrin/Tran 6-4,5-3 Feng/Wagner
+⏰ 0' (Set 2)
+
+2025-01-30 13:06:24.324 | INFO | __main__:fetch_live_matches:137 - ITF M15 Huamantla
+🎾 Michael A Beltran Rubio 1-1 Juan Sebastian Osorio
+⏰ 0' (Set 1)
+
+2025-01-30 13:06:24.325 | INFO | __main__:fetch_live_matches:137 - ITF M15 Huamantla
+🎾 Ezequiel Monferrer 4-6,1-2 Ryan Fishback
+⏰ 0' (Set 2)
+
+2025-01-30 13:06:24.325 | INFO | __main__:fetch_live_matches:137 - ITF M15 Huamantla
+🎾 Alvin N Tudorica 6-3,0-0 Alex Kobelt
+⏰ 0' (Set 2)
+
+2025-01-30 13:06:24.325 | INFO | __main__:fetch_live_matches:137 - ITF M15 Palm Coast
+🎾 Lucas Renard 2-6,1-4 Miles Jones
+⏰ 0' (Set 2)
+
+2025-01-30 13:06:24.326 | INFO | __main__:fetch_live_matches:137 - Challenger Piracicaba
+🎾 Mateus Alves 6-7,1-1 Roman Andres Burruchaga
+⏰ 0' (Set 2)
+
+2025-01-30 13:06:24.326 | INFO | __main__:fetch_live_matches:137 - ITF M15 Huamantla
+🎾 Tadeo Meneo 3-4 Johan A Rodriguez Rodriguez
+⏰ 0' (Set 1)
+
+2025-01-30 13:06:24.326 | INFO | __main__:fetch_live_matches:137 - WTA Linz
+🎾 Karolina Muchova 6-2,3-0 Sara Sorribes Tormo
+⏰ 0' (Set 2)
+
+2025-01-30 13:06:24.327 | INFO | __main__:fetch_live_matches:137 - Davis Cup
+🎾 Nicolai Budkov Kjaer 4-3 Tomas Martin Etcheverry
+⏰ 0' (Set 1)
+
+2025-01-30 13:06:24.327 | INFO | __main__:fetch_live_matches:137 - Challenger Koblenz
+🎾 Mika Brunold 6-2,0-0 Christoph Negritu
+⏰ 0' (Set 2)
+
+2025-01-30 13:06:24.328 | INFO | __main__:fetch_live_matches:137 - Challenger Cleveland MD
+🎾 Verdugo/Trotter 3-6,2-1 Kumar/Schachter
+⏰ 0' (Set 2)
+
+2025-01-30 13:06:24.328 | INFO | __main__:fetch_live_matches:137 - ITF M25 Glasgow MD
+🎾 Duncan/Mackinlay 6-1,6-2 Pecci/Serafini
+⏰ 0' (Set 2)
+
+2025-01-30 13:06:24.328 | INFO | __main__:fetch_live_matches:137 - ITF W75 Rome
+🎾 Solana Sierra 5-0 Lisa Zaar
+⏰ 0' (Set 1)
+
+2025-01-30 13:06:24.329 | INFO | __main__:fetch_live_matches:137 - ITF W75 Rome
+🎾 Cadence Brace 0-0 Carol Zhao
+⏰ 0' (Set 1)
+
+2025-01-30 13:06:24.329 | INFO | __main__:fetch_live_matches:137 - ITF W75 Rome
+🎾 Victoria Mboko 2-1 Akasha Urhobo
+⏰ 0' (Set 1)
+
+2025-01-30 13:06:24.330 | INFO | __main__:fetch_live_matches:137 - Challenger Cleveland
+🎾 Stefan Kozlov 2-1 Kaylan Bigun
+⏰ 0' (Set 1)
+
+2025-01-30 13:06:24.330 | INFO | __main__:fetch_live_matches:137 - ATP Montpellier
+🎾 Tallon Griekspoor 1-1 Richard Gasquet
+⏰ 0' (Set 1)
+
+2025-01-30 13:06:24.331 | INFO | __main__:fetch_live_matches:137 - ITF M15 Palm Coast MD
+🎾 Horve/Okonkwo 0-0 Van Orderlain/Vega
+⏰ 0' (Set 1)
+
+2025-01-30 13:06:25.861 | INFO | __main__:fetch_live_matches:131 - 
+📱 Live Ice Hockey Matches (23 total)
+
+2025-01-30 13:06:25.862 | INFO | __main__:fetch_live_matches:137 - Finland Mestis
+🏒 Keupa HT 0-2 Roki
+⏰ 20' (P1)
+
+2025-01-30 13:06:25.863 | INFO | __main__:fetch_live_matches:137 - Norway Eliteserien
+🏒 Storhamar 1-1 Narvik IK
+⏰ 20' (P1)
+
+2025-01-30 13:06:25.863 | INFO | __main__:fetch_live_matches:137 - Norway Eliteserien
+🏒 Stjernen 0-3 Lillehammer
+⏰ 20' (P1)
+
+2025-01-30 13:06:25.863 | INFO | __main__:fetch_live_matches:137 - Norway Eliteserien
+🏒 Lorenskog 2-0 Sparta Sarpsborg
+⏰ 20' (P1)
+
+2025-01-30 13:06:25.864 | INFO | __main__:fetch_live_matches:137 - Poland Ekstraliga
+🏒 KH GKS Katowice 1-1 JKH GKS Jastrzebie
+⏰ 20' (P1)
+
+2025-01-30 13:06:25.864 | INFO | __main__:fetch_live_matches:137 - Germany Oberliga
+🏒 Fuchse Duisburg 0-0 Icefighters Leipzig
+⏰ 20' (P1)
+
+2025-01-30 13:06:25.864 | INFO | __main__:fetch_live_matches:137 - Swedish Hockey League
+🏒 Modo Hockey 0-0 Vaxjo Lakers HC
+⏰ 18' (P1)
+
+2025-01-30 13:06:25.865 | INFO | __main__:fetch_live_matches:137 - Norway Elite U20
+🏒 Sparta Sarp U20 0-0 Lorenskog U20
+⏰ 18' (P1)
+
+2025-01-30 13:06:25.865 | INFO | __main__:fetch_live_matches:137 - Czechia Liga U20
+🏒 Olomouc U20 2-5 Zlin B U20
+⏰ 17' (P1)
+
+2025-01-30 13:06:25.865 | INFO | __main__:fetch_live_matches:137 - Swedish Hockey League
+🏒 Farjestad BK 0-0 Timra IK
+⏰ 17' (P1)
+
+2025-01-30 13:06:25.866 | INFO | __main__:fetch_live_matches:137 - Slovakia Extraliga U20
+🏒 HK Dukla Michalovce U20 4-1 HC Kosice U20
+⏰ 16' (P1)
+
+2025-01-30 13:06:25.866 | INFO | __main__:fetch_live_matches:137 - Sweden Nationell U20
+🏒 Frolunda HC U20 1-0 Rogle BK U20
+⏰ 16' (P1)
+
+2025-01-30 13:06:25.866 | INFO | __main__:fetch_live_matches:137 - Swedish Hockey League
+🏒 Skelleftea AIK 0-0 Luleå Hockey
+⏰ 16' (P1)
+
+2025-01-30 13:06:25.867 | INFO | __main__:fetch_live_matches:137 - Alps Hockey League
+🏒 HK Celje 0-0 EC Kitzbuhel
+⏰ 16' (P1)
+
+2025-01-30 13:06:25.867 | INFO | __main__:fetch_live_matches:137 - Swedish Hockey League
+🏒 Leksands IF 0-0 HV71
+⏰ 16' (P1)
+
+2025-01-30 13:06:25.868 | INFO | __main__:fetch_live_matches:137 - Norway Eliteserien
+🏒 Frisk Asker 0-0 Stavanger
+⏰ 16' (P1)
+
+2025-01-30 13:06:25.868 | INFO | __main__:fetch_live_matches:137 - Swedish Hockey League
+🏒 Brynas IF 0-0 Frolunda HC
+⏰ 15' (P1)
+
+2025-01-30 13:06:25.869 | INFO | __main__:fetch_live_matches:137 - Swedish Hockey League
+🏒 Rogle BK 0-0 IF Malmo Redhawks
+⏰ 15' (P1)
+
+2025-01-30 13:06:25.869 | INFO | __main__:fetch_live_matches:137 - Swedish Hockey League
+🏒 Linkoping HC 1-0 Orebro HK
+⏰ 15' (P1)
+
+2025-01-30 13:06:25.869 | INFO | __main__:fetch_live_matches:137 - Czechia Extraliga
+🏒 Liberec 1-0 Mountfield HK
+⏰ 13' (P1)
+
+2025-01-30 13:06:25.870 | INFO | __main__:fetch_live_matches:137 - Finland SM-Liiga U20
+🏒 Pelicans U20 1-2 Kookoo U20
+⏰ 6' (P1)
+
+2025-01-30 13:06:25.870 | INFO | __main__:fetch_live_matches:137 - IIHF U20 World Champs Div 3
+🏒 Bulgaria U20 4-1 Türkiye U20
+⏰ 5' (P1)
+
+2025-01-30 13:06:25.870 | INFO | __main__:fetch_live_matches:137 - Slovakia Extraliga U20
+🏒 HC Slovan Bratislava U20 5-2 VLCI Zilina U20
+⏰ 1' (P1)
+
+2025-01-30 13:06:27.237 | INFO | __main__:fetch_live_matches:131 - 
+📱 Live Volleyball Matches (12 total)
+
+2025-01-30 13:06:27.238 | INFO | __main__:fetch_live_matches:137 - Czechia Extraliga Women
+🏐 Prerov Women 10-13 Sternberk Women
+⏰ 0' (Set 1)
+
+2025-01-30 13:06:27.238 | INFO | __main__:fetch_live_matches:137 - Poland Liga Siatkówki Women
+🏐 Radomka Radom Women 0-0 MKS Kalisz Women
+⏰ 0' (Set 1)
+
+2025-01-30 13:06:27.238 | INFO | __main__:fetch_live_matches:137 - Czechia Extraliga Women
+🏐 Liberec Women 12-12 Vk Prostejov Women
+⏰ 0' (Set 1)
+
+2025-01-30 13:06:27.239 | INFO | __main__:fetch_live_matches:137 - Czechia Extraliga Women
+🏐 Olomouc Women 3-4 Ostrava Women
+⏰ 0' (Set 1)
+
+2025-01-30 13:06:27.239 | INFO | __main__:fetch_live_matches:137 - Czechia Extraliga Women
+🏐 Kralovo Pole Women 2-13 Olymp Praha Women
+⏰ 0' (Set 1)
+
+2025-01-30 13:06:27.239 | INFO | __main__:fetch_live_matches:137 - Israel National League
+🏐 Hapoel Emek Jezreel 3-0 Hapoel Hamaapil
+⏰ 0' (-)
+
+2025-01-30 13:06:27.240 | INFO | __main__:fetch_live_matches:137 - Hungary Regional League
+🏐 Dunakanyar LSN 0-0 MAFC-Vasarhelyi
+⏰ 0' (Set 1)
+
+2025-01-30 13:06:27.240 | INFO | __main__:fetch_live_matches:137 - Slovenia 1.DOL Women
+🏐 Weiler Volley Zrece Women 14-10 ZOK Braslovce Women
+⏰ 0' (Set 1)
+
+2025-01-30 13:06:27.240 | INFO | __main__:fetch_live_matches:137 - Bahrain Champs
+🏐 Al Dair 18-24 Al Tadamon Bahrain
+⏰ 0' (Set 1)
+
+2025-01-30 13:06:27.241 | INFO | __main__:fetch_live_matches:137 - German Bundesliga Women
+🏐 MTV Stuttgart Women 7-6 Dresdner SC Women
+⏰ 0' (Set 1)
+
+2025-01-30 13:06:27.241 | INFO | __main__:fetch_live_matches:137 - Argentina Serie A1
+🏐 Monteros 0-0 Velez Sarsfield
+⏰ 0' (Set 1)
+
+2025-01-30 13:06:27.242 | INFO | __main__:fetch_live_matches:137 - Slovenia 1B.DOL Women
+🏐 Prevalje Women 13-8 OD Krim Women
+⏰ 0' (Set 1)
+
+2025-01-30 13:06:28.828 | INFO | __main__:fetch_live_matches:131 - 
+📱 Live Handball Matches (5 total)
+
+2025-01-30 13:06:28.828 | INFO | __main__:fetch_live_matches:137 - Denmark 1st Division
+🤾 Skive FH 15-10 Rækker Mølle
+⏰ 28' (1H)
+
+2025-01-30 13:06:28.828 | INFO | __main__:fetch_live_matches:137 - Israel National League Women
+🤾 Bnei Herzliya Women 14-8 Hapoel Rishon LeZion Women
+⏰ 27' (1H)
+
+2025-01-30 13:06:28.829 | INFO | __main__:fetch_live_matches:137 - Israel Premier League
+🤾 Maccabi Rishon LeZion 16-12 Hapoel Ashdod
+⏰ 26' (1H)
+
+2025-01-30 13:06:28.829 | INFO | __main__:fetch_live_matches:137 - Sweden Eliteserien Women
+🤾 IK Savehof Women 1-2 Skara HF Women
+⏰ 6' (1H)
+
+2025-01-30 13:06:28.829 | INFO | __main__:fetch_live_matches:137 - Poland Central League Women
+🤾 KS APR Radom Women 2-1 SMS ZPRP Plock Women
+⏰ 5' (1H)
+
+2025-01-30 13:06:31.094 | INFO | __main__:fetch_live_matches:131 - 
+📱 Live Ice Hockey Matches (23 total)
+
+2025-01-30 13:06:31.094 | INFO | __main__:fetch_live_matches:137 - Finland Mestis
+🏒 Keupa HT 0-2 Roki
+⏰ 20' (P1)
+
+2025-01-30 13:06:31.095 | INFO | __main__:fetch_live_matches:137 - Norway Eliteserien
+🏒 Storhamar 1-1 Narvik IK
+⏰ 20' (P1)
+
+2025-01-30 13:06:31.095 | INFO | __main__:fetch_live_matches:137 - Norway Eliteserien
+🏒 Stjernen 0-3 Lillehammer
+⏰ 20' (P1)
+
+2025-01-30 13:06:31.095 | INFO | __main__:fetch_live_matches:137 - Norway Eliteserien
+🏒 Lorenskog 2-0 Sparta Sarpsborg
+⏰ 20' (P1)
+
+2025-01-30 13:06:31.096 | INFO | __main__:fetch_live_matches:137 - Poland Ekstraliga
+🏒 KH GKS Katowice 1-1 JKH GKS Jastrzebie
+⏰ 20' (P1)
+
+2025-01-30 13:06:31.096 | INFO | __main__:fetch_live_matches:137 - Germany Oberliga
+🏒 Fuchse Duisburg 0-0 Icefighters Leipzig
+⏰ 20' (P1)
+
+2025-01-30 13:06:31.097 | INFO | __main__:fetch_live_matches:137 - Swedish Hockey League
+🏒 Modo Hockey 0-0 Vaxjo Lakers HC
+⏰ 19' (P1)
+
+2025-01-30 13:06:31.097 | INFO | __main__:fetch_live_matches:137 - Norway Elite U20
+🏒 Sparta Sarp U20 0-0 Lorenskog U20
+⏰ 18' (P1)
+
+2025-01-30 13:06:31.097 | INFO | __main__:fetch_live_matches:137 - Czechia Liga U20
+🏒 Olomouc U20 2-5 Zlin B U20
+⏰ 17' (P1)
+
+2025-01-30 13:06:31.097 | INFO | __main__:fetch_live_matches:137 - Swedish Hockey League
+🏒 Farjestad BK 0-0 Timra IK
+⏰ 17' (P1)
+
+2025-01-30 13:06:31.098 | INFO | __main__:fetch_live_matches:137 - Slovakia Extraliga U20
+🏒 HK Dukla Michalovce U20 4-1 HC Kosice U20
+⏰ 16' (P1)
+
+2025-01-30 13:06:31.098 | INFO | __main__:fetch_live_matches:137 - Sweden Nationell U20
+🏒 Frolunda HC U20 1-0 Rogle BK U20
+⏰ 16' (P1)
+
+2025-01-30 13:06:31.098 | INFO | __main__:fetch_live_matches:137 - Swedish Hockey League
+🏒 Skelleftea AIK 0-0 Luleå Hockey
+⏰ 16' (P1)
+
+2025-01-30 13:06:31.099 | INFO | __main__:fetch_live_matches:137 - Alps Hockey League
+🏒 HK Celje 0-0 EC Kitzbuhel
+⏰ 16' (P1)
+
+2025-01-30 13:06:31.099 | INFO | __main__:fetch_live_matches:137 - Swedish Hockey League
+🏒 Leksands IF 0-0 HV71
+⏰ 16' (P1)
+
+2025-01-30 13:06:31.100 | INFO | __main__:fetch_live_matches:137 - Norway Eliteserien
+🏒 Frisk Asker 0-0 Stavanger
+⏰ 16' (P1)
+
+2025-01-30 13:06:31.100 | INFO | __main__:fetch_live_matches:137 - Swedish Hockey League
+🏒 Brynas IF 0-0 Frolunda HC
+⏰ 15' (P1)
+
+2025-01-30 13:06:31.100 | INFO | __main__:fetch_live_matches:137 - Swedish Hockey League
+🏒 Rogle BK 0-0 IF Malmo Redhawks
+⏰ 15' (P1)
+
+2025-01-30 13:06:31.101 | INFO | __main__:fetch_live_matches:137 - Swedish Hockey League
+🏒 Linkoping HC 1-0 Orebro HK
+⏰ 15' (P1)
+
+2025-01-30 13:06:31.101 | INFO | __main__:fetch_live_matches:137 - Czechia Extraliga
+🏒 Liberec 1-0 Mountfield HK
+⏰ 13' (P1)
+
+2025-01-30 13:06:31.102 | INFO | __main__:fetch_live_matches:137 - Finland SM-Liiga U20
+🏒 Pelicans U20 1-2 Kookoo U20
+⏰ 6' (P1)
+
+2025-01-30 13:06:31.102 | INFO | __main__:fetch_live_matches:137 - IIHF U20 World Champs Div 3
+🏒 Bulgaria U20 4-1 Türkiye U20
+⏰ 5' (P1)
+
+2025-01-30 13:06:31.102 | INFO | __main__:fetch_live_matches:137 - Slovakia Extraliga U20
+🏒 HC Slovan Bratislava U20 5-2 VLCI Zilina U20
+⏰ 1' (P1)
+
+2025-01-30 13:06:34.791 | INFO | __main__:fetch_live_matches:131 - 
+📱 Live Handball Matches (5 total)
+
+2025-01-30 13:06:34.792 | INFO | __main__:fetch_live_matches:137 - Denmark 1st Division
+🤾 Skive FH 15-10 Rækker Mølle
+⏰ 28' (1H)
+
+2025-01-30 13:06:34.792 | INFO | __main__:fetch_live_matches:137 - Israel National League Women
+🤾 Bnei Herzliya Women 14-8 Hapoel Rishon LeZion Women
+⏰ 27' (1H)
+
+2025-01-30 13:06:34.792 | INFO | __main__:fetch_live_matches:137 - Israel Premier League
+🤾 Maccabi Rishon LeZion 16-12 Hapoel Ashdod
+⏰ 26' (1H)
+
+2025-01-30 13:06:34.793 | INFO | __main__:fetch_live_matches:137 - Sweden Eliteserien Women
+🤾 IK Savehof Women 1-2 Skara HF Women
+⏰ 6' (1H)
+
+2025-01-30 13:06:34.793 | INFO | __main__:fetch_live_matches:137 - Poland Central League Women
+🤾 KS APR Radom Women 2-1 SMS ZPRP Plock Women
+⏰ 6' (1H)
+
+2025-01-30 13:06:37.621 | INFO | __main__:fetch_live_matches:131 - 
+📱 Live Table Tennis Matches (21 total)
+
+2025-01-30 13:06:37.622 | INFO | __main__:fetch_live_matches:137 - Czech Liga Pro
+🏓 Petr Svoboda 0-0 Miroslav Malek
+⏰ 0' (Game 1)
+
+2025-01-30 13:06:37.622 | INFO | __main__:fetch_live_matches:137 - Setka Cup
+🏓 Oleksandr Bondarchuk 2-3 Yevhen Masko
+⏰ 0' (-)
+
+2025-01-30 13:06:37.623 | INFO | __main__:fetch_live_matches:137 - Czech Extraleague
+🏓 Martin Koblizek 1-1 Adam Stalzer
+⏰ 0' (Game 1)
+
+2025-01-30 13:06:37.625 | INFO | __main__:fetch_live_matches:137 - TT Elite Series
+🏓 Mariusz Koczyba 3-11 Mateusz Trela
+⏰ 0' (Game 1)
+
+2025-01-30 13:06:37.625 | INFO | __main__:fetch_live_matches:137 - Setka Cup
+🏓 Marian Melisek 10-9 Jan Krojidlo
+⏰ 0' (Game 1)
+
+2025-01-30 13:06:37.626 | INFO | __main__:fetch_live_matches:137 - Setka Cup
+🏓 Oleksandr Mishchenko 2-5 Eduard Rubtsov
+⏰ 0' (Game 1)
+
+2025-01-30 13:06:37.626 | INFO | __main__:fetch_live_matches:137 - TT Cup
+🏓 Jiri Cerny 0-0 Ladislav Moravec
+⏰ 0' (Game 1)
+
+2025-01-30 13:06:37.627 | INFO | __main__:fetch_live_matches:137 - Setka Cup
+🏓 Vladyslav Kovalchuk 0-0 Mykola Slozka
+⏰ 0' (Game 1)
+
+2025-01-30 13:06:37.628 | INFO | __main__:fetch_live_matches:137 - Czech Liga Pro
+🏓 Jiri Ruzicka 4-4 Martin Huk
+⏰ 0' (Game 1)
+
+2025-01-30 13:06:37.628 | INFO | __main__:fetch_live_matches:137 - Czech Liga Pro
+🏓 Petr Svoboda 3-0 Miroslav Malek
+⏰ 0' (Game 1)
+
+2025-01-30 13:06:37.629 | INFO | __main__:fetch_live_matches:137 - Czech Liga Pro
+🏓 Tomas Turek 9-9 Marek Fabini
+⏰ 0' (Game 1)
+
+2025-01-30 13:06:37.629 | INFO | __main__:fetch_live_matches:137 - TT Star Series
+🏓 Simon Berglund 9-6 Erik Huzsvar
+⏰ 0' (Game 1)
+
+2025-01-30 13:06:37.629 | INFO | __main__:fetch_live_matches:137 - TT Elite Series
+🏓 Petr David 3-6 Krzysztof Kapik
+⏰ 0' (Game 1)
+
+2025-01-30 13:06:37.630 | INFO | __main__:fetch_live_matches:137 - Setka Cup
+🏓 Anton Tur 4-4 Serhii Chuhai
+⏰ 0' (Game 1)
+
+2025-01-30 13:06:37.630 | INFO | __main__:fetch_live_matches:137 - Czech Liga Pro
+🏓 Frantisek Trojan 9-7 Leos Havrda
+⏰ 0' (Game 1)
+
+2025-01-30 13:06:37.631 | INFO | __main__:fetch_live_matches:137 - Czech Liga Pro
+🏓 Martin Pavliska 7-6 Kamil Przeczek
+⏰ 0' (Game 1)
+
+2025-01-30 13:06:37.631 | INFO | __main__:fetch_live_matches:137 - Setka Cup
+🏓 Volodymyr Kruglyak 0-0 Hennadii Buianover
+⏰ 0' (Game 1)
+
+2025-01-30 13:06:37.632 | INFO | __main__:fetch_live_matches:137 - TT Elite Series
+🏓 Kacper Slawinski 0-0 Marcin Kowalczyk
+⏰ 0' (Game 1)
+
+2025-01-30 13:06:37.632 | INFO | __main__:fetch_live_matches:137 - Setka Cup
+🏓 Martin Vorel 1-3 Ladislav Tuma
+⏰ 0' (Game 1)
+
+2025-01-30 13:06:37.633 | INFO | __main__:fetch_live_matches:137 - TT Cup
+🏓 Marek Teiml 0-0 Ales Zacharda
+⏰ 0' (Game 1)
+
+2025-01-30 13:06:37.633 | INFO | __main__:fetch_live_matches:137 - Setka Cup
+🏓 Martin Stehlik 0-0 Zdenek Kuksa
+⏰ 0' (Game 1)
+
+2025-01-30 13:06:42.708 | INFO | __main__:fetch_live_matches:131 - 
+📱 Live Table Tennis Matches (21 total)
+
+2025-01-30 13:06:42.709 | INFO | __main__:fetch_live_matches:137 - Czech Liga Pro
+🏓 Petr Svoboda 0-0 Miroslav Malek
+⏰ 0' (Game 1)
+
+2025-01-30 13:06:42.709 | INFO | __main__:fetch_live_matches:137 - Setka Cup
+🏓 Oleksandr Bondarchuk 2-3 Yevhen Masko
+⏰ 0' (-)
+
+2025-01-30 13:06:42.709 | INFO | __main__:fetch_live_matches:137 - Czech Extraleague
+🏓 Martin Koblizek 1-1 Adam Stalzer
+⏰ 0' (Game 1)
+
+2025-01-30 13:06:42.710 | INFO | __main__:fetch_live_matches:137 - TT Elite Series
+🏓 Mariusz Koczyba 3-11 Mateusz Trela
+⏰ 0' (Game 1)
+
+2025-01-30 13:06:42.710 | INFO | __main__:fetch_live_matches:137 - Setka Cup
+🏓 Marian Melisek 10-10 Jan Krojidlo
+⏰ 0' (Game 1)
+
+2025-01-30 13:06:42.710 | INFO | __main__:fetch_live_matches:137 - Setka Cup
+🏓 Oleksandr Mishchenko 3-5 Eduard Rubtsov
+⏰ 0' (Game 1)
+
+2025-01-30 13:06:42.711 | INFO | __main__:fetch_live_matches:137 - TT Cup
+🏓 Jiri Cerny 0-0 Ladislav Moravec
+⏰ 0' (Game 1)
+
+2025-01-30 13:06:42.711 | INFO | __main__:fetch_live_matches:137 - Setka Cup
+🏓 Vladyslav Kovalchuk 0-0 Mykola Slozka
+⏰ 0' (Game 1)
+
+2025-01-30 13:06:42.711 | INFO | __main__:fetch_live_matches:137 - Czech Liga Pro
+🏓 Jiri Ruzicka 4-4 Martin Huk
+⏰ 0' (Game 1)
+
+2025-01-30 13:06:42.712 | INFO | __main__:fetch_live_matches:137 - Czech Liga Pro
+🏓 Petr Svoboda 3-0 Miroslav Malek
+⏰ 0' (Game 1)
+
+2025-01-30 13:06:42.712 | INFO | __main__:fetch_live_matches:137 - Czech Liga Pro
+🏓 Tomas Turek 9-8 Marek Fabini
+⏰ 0' (Game 1)
+
+2025-01-30 13:06:42.712 | INFO | __main__:fetch_live_matches:137 - TT Star Series
+🏓 Simon Berglund 9-6 Erik Huzsvar
+⏰ 0' (Game 1)
+
+2025-01-30 13:06:42.713 | INFO | __main__:fetch_live_matches:137 - TT Elite Series
+🏓 Petr David 3-7 Krzysztof Kapik
+⏰ 0' (Game 1)
+
+2025-01-30 13:06:42.713 | INFO | __main__:fetch_live_matches:137 - Setka Cup
+🏓 Anton Tur 4-4 Serhii Chuhai
+⏰ 0' (Game 1)
+
+2025-01-30 13:06:42.713 | INFO | __main__:fetch_live_matches:137 - Czech Liga Pro
+🏓 Frantisek Trojan 9-7 Leos Havrda
+⏰ 0' (Game 1)
+
+2025-01-30 13:06:42.714 | INFO | __main__:fetch_live_matches:137 - Czech Liga Pro
+🏓 Martin Pavliska 7-6 Kamil Przeczek
+⏰ 0' (Game 1)
+
+2025-01-30 13:06:42.714 | INFO | __main__:fetch_live_matches:137 - Setka Cup
+🏓 Volodymyr Kruglyak 0-0 Hennadii Buianover
+⏰ 0' (Game 1)
+
+2025-01-30 13:06:42.715 | INFO | __main__:fetch_live_matches:137 - TT Elite Series
+🏓 Kacper Slawinski 0-0 Marcin Kowalczyk
+⏰ 0' (Game 1)
+
+2025-01-30 13:06:42.715 | INFO | __main__:fetch_live_matches:137 - Setka Cup
+🏓 Martin Vorel 1-4 Ladislav Tuma
+⏰ 0' (Game 1)
+
+2025-01-30 13:06:42.715 | INFO | __main__:fetch_live_matches:137 - TT Cup
+🏓 Marek Teiml 0-0 Ales Zacharda
+⏰ 0' (Game 1)
+
+2025-01-30 13:06:42.716 | INFO | __main__:fetch_live_matches:137 - Setka Cup
+🏓 Martin Stehlik 0-0 Zdenek Kuksa
+⏰ 0' (Game 1)
+
+2025-01-30 13:07:25.056 | INFO | __main__:fetch_live_matches:131 - 
+📱 Live Soccer Matches (15 total)
+
+2025-01-30 13:07:25.057 | INFO | __main__:fetch_live_matches:137 - Israel Division 1 Women
+⚽ Maccabi Kishronot Hadera Women 1-1 Hapoel Petah Tikva Women
+⏰ 74' (2H)
+
+2025-01-30 13:07:25.057 | INFO | __main__:fetch_live_matches:137 - Iraq Stars League
+⚽ Al Quwa Al Jawiya 0-1 Al Shorta SC
+⏰ 71' (2H)
+
+2025-01-30 13:07:25.057 | INFO | __main__:fetch_live_matches:137 - Coppa Italia Women
+⚽ Juventus Women 0-3 Lazio Women
+⏰ 51' (2H)
+
+2025-01-30 13:07:25.057 | INFO | __main__:fetch_live_matches:137 - Israel Division 1 Women
+⚽ Kiryat Gat SC Women 2-0 FC Ramat Hasharon Women
+⏰ 49' (2H)
+
+2025-01-30 13:07:25.058 | INFO | __main__:fetch_live_matches:137 - Cyprus Cup
+⚽ Apoel Nicosia 1-0 Pafos FC
+⏰ 47' (2H)
+
+2025-01-30 13:07:25.058 | INFO | __main__:fetch_live_matches:137 - Israel Liga Alef South
+⚽ Hapoel Herzliya 0-0 Hapoel Azor
+⏰ 47' (2H)
+
+2025-01-30 13:07:25.058 | INFO | __main__:fetch_live_matches:137 - Morocco GNF 1
+⚽ Raja Casablanca 1-0 OC Safi
+⏰ 46' (2H)
+
+2025-01-30 13:07:25.059 | INFO | __main__:fetch_live_matches:137 - Saudi Arabia Pro League
+⚽ Al Raed 0-1 Al-Nassr Riyadh
+⏰ 45' (1H)
+
+2025-01-30 13:07:25.059 | INFO | __main__:fetch_live_matches:137 - Israel Division 1 Women
+⚽ Hapoel Tel Aviv Women 1-2 Hapoel Jerusalem Women
+⏰ 45' (1H)
+
+2025-01-30 13:07:25.060 | INFO | __main__:fetch_live_matches:137 - Israel Liga Bet South
+⚽ Ironi Beit Dagan 0-0 MS Bnei Jaffa Ortodoxim
+⏰ 35' (1H)
+
+2025-01-30 13:07:25.060 | INFO | __main__:fetch_live_matches:137 - Israel Liga Bet North
+⚽ Hapoel Ironi Karmiel 0-1 Maccabi Ihud Bnei Avtin
+⏰ 34' (1H)
+
+2025-01-30 13:07:25.061 | INFO | __main__:fetch_live_matches:137 - Algeria Division 1
+⚽ CR Belouizdad 0-0 CS Constantine
+⏰ 7' (1H)
+
+2025-01-30 13:07:25.061 | INFO | __main__:fetch_live_matches:137 - Israel Division 1 Women
+⚽ Hapoel Beer Sheva Women 1-0 ASA Tel Aviv Women
+⏰ 6' (1H)
+
+2025-01-30 13:07:25.062 | INFO | __main__:fetch_live_matches:137 - Mali Premiere Division
+⚽ Djoliba AC 0-0 US Bougouba
+⏰ 4' (1H)
+
+2025-01-30 13:07:25.063 | INFO | __main__:fetch_live_matches:137 - Brazil Campeonato Pernambucano
+⚽ Decisao 0-0 Petrolina SFC
+⏰ 3' (1H)
+
+2025-01-30 13:07:28.307 | INFO | __main__:fetch_live_matches:131 - 
+📱 Live Basketball Matches (22 total)
+
+2025-01-30 13:07:28.308 | INFO | __main__:fetch_live_matches:137 - Czechia Cup
+🏀 BK Decin 43-24 Brno
+⏰ 10' (Q3)
+
+2025-01-30 13:07:28.309 | INFO | __main__:fetch_live_matches:137 - Denmark Basketligaen
+🏀 Copenhagen Basketball 0-0 Svendborg Rabbits
+⏰ 10' (Q1)
+
+2025-01-30 13:07:28.309 | INFO | __main__:fetch_live_matches:137 - Bahrain Premier League
+🏀 Al Ittihad Bahrain 41-39 Al Hala
+⏰ 9' (Q3)
+
+2025-01-30 13:07:28.310 | INFO | __main__:fetch_live_matches:137 - Czechia Cup
+🏀 BK Opava 44-38 Sokol Pisek
+⏰ 6' (Q3)
+
+2025-01-30 13:07:28.310 | INFO | __main__:fetch_live_matches:137 - Algeria Super Division
+🏀 CSC Djasr Kasentina 28-33 MC Alger
+⏰ 6' (Q3)
+
+2025-01-30 13:07:28.311 | INFO | __main__:fetch_live_matches:137 - Poland 2 Liga
+🏀 GTK Gliwice 2 3-13 AZS AGH Krakow
+⏰ 6' (Q1)
+
+2025-01-30 13:07:28.311 | INFO | __main__:fetch_live_matches:137 - Euroleague
+🏀 Zalgiris 8-8 Bayern Munich
+⏰ 6' (Q1)
+
