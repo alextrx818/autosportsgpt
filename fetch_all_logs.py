@@ -1,5 +1,4 @@
 import os
-import subprocess
 import requests
 from datetime import datetime
 
@@ -9,24 +8,44 @@ DO_API_TOKEN = os.getenv("DO_API_TOKEN")
 def get_runtime_logs():
     """Get current runtime logs"""
     print("\n=== Runtime Logs ===")
-    result = subprocess.run([
-        ".\\doctl\\doctl.exe", 
-        "apps", "logs", 
-        APP_ID,
-        "--type=RUN"
-    ], capture_output=True, text=True)
-    print(result.stdout)
-    
+    headers = {
+        "Authorization": f"Bearer {DO_API_TOKEN}",
+        "Content-Type": "application/json"
+    }
+    url = f"https://api.digitalocean.com/v2/apps/{APP_ID}/deployments"
+    response = requests.get(url, headers=headers)
+    if response.status_code == 200:
+        deployments = response.json()["deployments"]
+        if deployments:
+            latest = deployments[0]
+            print(f"Latest deployment status: {latest['phase']}")
+            print(f"Created at: {latest['created_at']}")
+            if latest.get("progress"):
+                print(f"Progress: {latest['progress']}")
+    else:
+        print(f"Error getting deployments: {response.status_code}")
+        print(response.text)
+
 def get_crash_logs():
     """Get logs from the last crash"""
     print("\n=== Crash Logs ===")
-    result = subprocess.run([
-        ".\\doctl\\doctl.exe", 
-        "apps", "logs", 
-        APP_ID,
-        "--type=run_restarted"
-    ], capture_output=True, text=True)
-    print(result.stdout)
+    headers = {
+        "Authorization": f"Bearer {DO_API_TOKEN}",
+        "Content-Type": "application/json"
+    }
+    url = f"https://api.digitalocean.com/v2/apps/{APP_ID}/deployments"
+    response = requests.get(url, headers=headers)
+    if response.status_code == 200:
+        deployments = response.json()["deployments"]
+        if deployments:
+            latest = deployments[0]
+            print(f"Latest deployment status: {latest['phase']}")
+            print(f"Created at: {latest['created_at']}")
+            if latest.get("progress"):
+                print(f"Progress: {latest['progress']}")
+    else:
+        print(f"Error getting deployments: {response.status_code}")
+        print(response.text)
 
 def get_build_logs(deployment_id, component="autosportsgpt"):
     """Get build logs for a specific deployment"""
